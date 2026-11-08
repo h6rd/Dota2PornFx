@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-08T19:36:56+00:00",
+ "generated": "2026-11-08T22:41:02+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 107
+   "count": 111
   },
   {
    "tag": "couriers",
@@ -315,6 +315,24 @@
   },
   {
    "category": "backgrounds",
+   "name": "6 86 Arc Warden Background.zip",
+   "asset": "6.86.Arc.Warden.Background.zip",
+   "tag": "backgrounds",
+   "size": 9086,
+   "sha256": "3e0824cbc9b3c9c884d0c054bd87cae54e0fdb4ef03df511526084cb79460af5",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/6.86.Arc.Warden.Background.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "7 40 Largo.zip",
+   "asset": "7.40.Largo.zip",
+   "tag": "backgrounds",
+   "size": 13414,
+   "sha256": "ef3a39d872196c951583d7c6dacbd286a5b20a46653054d0b84d869c0842574f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/7.40.Largo.zip"
+  },
+  {
+   "category": "backgrounds",
    "name": "Amor Endscreen.zip",
    "asset": "Amor.Endscreen.zip",
    "tag": "backgrounds",
@@ -483,6 +501,15 @@
    "size": 828412,
    "sha256": "9bda489c92b6728f74faf46720fdeddb25d78517d8ec56be4b82b990ddea350c",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Depressed.SpongeBob.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Elaina Blade.zip",
+   "asset": "Elaina.Blade.zip",
+   "tag": "backgrounds",
+   "size": 26187598,
+   "sha256": "8f68d988a441b1d88640178b67b71cd2e7723f159feef6beb3348473edb1642e",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Elaina.Blade.zip"
   },
   {
    "category": "backgrounds",
@@ -741,8 +768,8 @@
    "name": "Last Match Vidget.zip",
    "asset": "Last.Match.Vidget.zip",
    "tag": "backgrounds",
-   "size": 7122,
-   "sha256": "7707a0d298550f454b7d44e0a58cd3473ce2c8b815182e376a911e2c5d2c33b4",
+   "size": 7148,
+   "sha256": "b40661695848800c04b6b9b830048dc4589aabbd0caa99232c20d0ce6b793804",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Last.Match.Vidget.zip"
   },
   {
@@ -960,6 +987,15 @@
    "size": 14925013,
    "sha256": "e7a6b1a4aa56c4514e95d55b6ce51421af241c84f40e459e8d7e2be57711a057",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Push.The.Button.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Rainy Day.zip",
+   "asset": "Rainy.Day.zip",
+   "tag": "backgrounds",
+   "size": 20254637,
+   "sha256": "1647f8264f957a0773c4e87f3b5f0e28a8470997a20cf0174b5cc73cefcc7e95",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Rainy.Day.zip"
   },
   {
    "category": "backgrounds",
