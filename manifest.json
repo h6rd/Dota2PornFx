@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-08T22:41:02+00:00",
+ "generated": "2026-11-09T19:03:45+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 111
+   "count": 112
   },
   {
    "tag": "couriers",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 403
+   "count": 405
   },
   {
    "tag": "heroes-2",
@@ -165,7 +165,7 @@
   {
    "tag": "sounds",
    "category": "sounds",
-   "count": 26
+   "count": 27
   },
   {
    "tag": "terrains",
@@ -321,6 +321,15 @@
    "size": 9086,
    "sha256": "3e0824cbc9b3c9c884d0c054bd87cae54e0fdb4ef03df511526084cb79460af5",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/6.86.Arc.Warden.Background.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "7 28 Hoodwink.zip",
+   "asset": "7.28.Hoodwink.zip",
+   "tag": "backgrounds",
+   "size": 4421,
+   "sha256": "8e563ecc8ff1da66f168eecf946cd65ffe306a718a69e952a5e29ea5cc32a2da",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/7.28.Hoodwink.zip"
   },
   {
    "category": "backgrounds",
@@ -7200,6 +7209,15 @@
   },
   {
    "category": "heroes",
+   "name": "Huskar Bloodbath.zip",
+   "asset": "Huskar.Bloodbath.zip",
+   "tag": "heroes-1",
+   "size": 2073952,
+   "sha256": "8828ef5d4867e030b25fe1ae02b89df216e675ad0973e9caa8d2f078891d5f9d",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Huskar.Bloodbath.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Huskar Cthugha.zip",
    "asset": "Huskar.Cthugha.zip",
    "tag": "heroes-1",
@@ -10968,6 +10986,15 @@
    "size": 5695928,
    "sha256": "3d4eb24ef88b7e703454501b2edcb1db35f16a709b83912476e4633e3145c7e6",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Templar.Assassin.Black.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Templar Assassin Headress.zip",
+   "asset": "Templar.Assassin.Headress.zip",
+   "tag": "heroes-1",
+   "size": 2370752,
+   "sha256": "449d161b776b6ce4abbba5e64325ed5b5f5aace47ee6ff1602ac60f4dc6f8597",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Templar.Assassin.Headress.zip"
   },
   {
    "category": "heroes",
@@ -16458,6 +16485,15 @@
    "size": 388021,
    "sha256": "7e3bc62e1cb10afec0620b3883fce96db98290ae414f06266b85b86dad396469",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Dark.Carnival.Team.Spirit.zip"
+  },
+  {
+   "category": "sounds",
+   "name": "Deny Pupue Sound.zip",
+   "asset": "Deny.Pupue.Sound.zip",
+   "tag": "sounds",
+   "size": 13466,
+   "sha256": "07e5440bdd4e7519e921b617c28aa5ab69616d7b8324752e3e0720115724d30a",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Deny.Pupue.Sound.zip"
   },
   {
    "category": "sounds",
