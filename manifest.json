@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-10T11:34:34+00:00",
+ "generated": "2026-11-10T19:53:16+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -190,7 +190,7 @@
   {
    "tag": "towers",
    "category": "towers",
-   "count": 13
+   "count": 14
   },
   {
    "tag": "trees",
@@ -17079,6 +17079,15 @@
    "size": 720649,
    "sha256": "0dcab933c1696fc74e326ed05fe3103c1e22c36b0b6a39b9790b868e7b08d835",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/towers/Crownfall.Radiant.zip"
+  },
+  {
+   "category": "towers",
+   "name": "Declaration of the Divine Cyan.zip",
+   "asset": "Declaration.of.the.Divine.Cyan.zip",
+   "tag": "towers",
+   "size": 408769,
+   "sha256": "92763de7ae00eec0fcaf2acab9db66660a6627671ec04578ac9f995f6e670ba2",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/towers/Declaration.of.the.Divine.Cyan.zip"
   },
   {
    "category": "towers",
