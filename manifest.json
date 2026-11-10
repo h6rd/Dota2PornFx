@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-10T19:53:16+00:00",
+ "generated": "2026-11-10T21:48:23+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 112
+   "count": 113
   },
   {
    "tag": "couriers",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 405
+   "count": 406
   },
   {
    "tag": "heroes-2",
@@ -100,7 +100,7 @@
   {
    "tag": "mega-kill",
    "category": "mega-kill",
-   "count": 42
+   "count": 43
   },
   {
    "tag": "music",
@@ -155,7 +155,7 @@
   {
    "tag": "roshan",
    "category": "roshan",
-   "count": 12
+   "count": 13
   },
   {
    "tag": "shaders",
@@ -996,6 +996,15 @@
    "size": 14925013,
    "sha256": "e7a6b1a4aa56c4514e95d55b6ce51421af241c84f40e459e8d7e2be57711a057",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Push.The.Button.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Qwop Arcana.zip",
+   "asset": "Qwop.Arcana.zip",
+   "tag": "backgrounds",
+   "size": 7205,
+   "sha256": "297dc5f8f6db047c5e1ac0743d99c8c881ee8d22837d11e8d7710b2fd7cc8d1e",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Qwop.Arcana.zip"
   },
   {
    "category": "backgrounds",
@@ -9765,6 +9774,15 @@
   },
   {
    "category": "heroes",
+   "name": "Puck Avice.zip",
+   "asset": "Puck.Avice.zip",
+   "tag": "heroes-1",
+   "size": 911312,
+   "sha256": "ca34f795b6e0e1106b5aa825bd8c989d25c8464040806be8429550e233fa7790",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Puck.Avice.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Pudge Abscession Immortal.zip",
    "asset": "Pudge.Abscession.Immortal.zip",
    "tag": "heroes-2",
@@ -13941,6 +13959,15 @@
   },
   {
    "category": "mega-kill",
+   "name": "Barboskiny X Naruto.zip",
+   "asset": "Barboskiny.X.Naruto.zip",
+   "tag": "mega-kill",
+   "size": 890757,
+   "sha256": "affc9c39cb95c62cf8cd471d59b26ea1f348546daed5be7f81a097be6e6a2669",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/mega-kill/Barboskiny.X.Naruto.zip"
+  },
+  {
+   "category": "mega-kill",
    "name": "Blindzone.zip",
    "asset": "Blindzone.zip",
    "tag": "mega-kill",
@@ -16098,6 +16125,15 @@
    "size": 3033,
    "sha256": "933e81d26b7bc5ac9a68148589170d4c9d7448e5ac8443cf0878fb023e31e2d4",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/roshan/Journey.Roshan.zip"
+  },
+  {
+   "category": "roshan",
+   "name": "Kaban Roshan Wow.zip",
+   "asset": "Kaban.Roshan.Wow.zip",
+   "tag": "roshan",
+   "size": 585462,
+   "sha256": "b1edc38da3244d7608da9d08fc349b7b7bf6fe5a8392618e2b7bd32b42d7dd08",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/roshan/Kaban.Roshan.Wow.zip"
   },
   {
    "category": "roshan",
