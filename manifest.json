@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-10T21:48:23+00:00",
+ "generated": "2026-11-11T21:00:14+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 406
+   "count": 408
   },
   {
    "tag": "heroes-2",
@@ -75,7 +75,7 @@
   {
    "tag": "herofx",
    "category": "herofx",
-   "count": 6
+   "count": 7
   },
   {
    "tag": "high-five",
@@ -7128,6 +7128,15 @@
   },
   {
    "category": "heroes",
+   "name": "Grimstroke Update Sovietmedci.zip",
+   "asset": "Grimstroke.Update.Sovietmedci.zip",
+   "tag": "heroes-1",
+   "size": 5054013,
+   "sha256": "fe1686dfd65971391aa39404d06d8eb6f98e24a4bad085b2e73a8a8930d42cd7",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Grimstroke.Update.Sovietmedci.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Gyrocopter Airbone Machete.zip",
    "asset": "Gyrocopter.Airbone.Machete.zip",
    "tag": "heroes-1",
@@ -8214,6 +8223,15 @@
    "size": 3350073,
    "sha256": "056aa598ea805eaa19deb15ef61cb9d7b4ecdba4ecf0a122a9d6b6d519edbe0f",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/LenS.Tinker.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Leshrac Do 5300 Ne Podbrosite.zip",
+   "asset": "Leshrac.Do.5300.Ne.Podbrosite.zip",
+   "tag": "heroes-1",
+   "size": 6018344,
+   "sha256": "ab027fe908239565115c56c8ee9715238c142dbd66067beeacb388fe5ab844f4",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Leshrac.Do.5300.Ne.Podbrosite.zip"
   },
   {
    "category": "heroes",
@@ -9777,8 +9795,8 @@
    "name": "Puck Avice.zip",
    "asset": "Puck.Avice.zip",
    "tag": "heroes-1",
-   "size": 911312,
-   "sha256": "ca34f795b6e0e1106b5aa825bd8c989d25c8464040806be8429550e233fa7790",
+   "size": 927575,
+   "sha256": "e3173d1c54743b76fa9f50656e35234ec02586eb625aed81b0d2af8557759340",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Puck.Avice.zip"
   },
   {
@@ -12201,6 +12219,15 @@
    "size": 20215,
    "sha256": "afa69c512cee7080c4f0cb3088428c708419dd24946e3909c74edb7e98c9dcb3",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/herofx/Enigma.World.Chasm.Artifact.zip"
+  },
+  {
+   "category": "herofx",
+   "name": "Grimstroke Old Effects.zip",
+   "asset": "Grimstroke.Old.Effects.zip",
+   "tag": "herofx",
+   "size": 28485,
+   "sha256": "fb9120873c4b16e52eba7c1d19a27cc1ae4296c17f31f8beeabfb58a0e8b7484",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/herofx/Grimstroke.Old.Effects.zip"
   },
   {
    "category": "herofx",
