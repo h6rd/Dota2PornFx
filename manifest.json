@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-11T21:00:14+00:00",
+ "generated": "2026-11-12T14:36:25+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 113
+   "count": 114
   },
   {
    "tag": "couriers",
@@ -30,7 +30,7 @@
   {
    "tag": "creeps",
    "category": "creeps",
-   "count": 25
+   "count": 27
   },
   {
    "tag": "cursors",
@@ -447,6 +447,15 @@
    "size": 16258675,
    "sha256": "3b6fb357921235fcb15d35f51515f1abcaa5fed8825ebd0992fb0dc9e661e861",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/City.Ruins.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Cloud Vs Sephiroth By Siriusz.zip",
+   "asset": "Cloud.Vs.Sephiroth.By.Siriusz.zip",
+   "tag": "backgrounds",
+   "size": 3838883,
+   "sha256": "bcf570fe71dce854cba0869ef5b120832917b4ce24e35bf30f09b57a0a51edc6",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Cloud.Vs.Sephiroth.By.Siriusz.zip"
   },
   {
    "category": "backgrounds",
@@ -1998,6 +2007,15 @@
   },
   {
    "category": "creeps",
+   "name": "Dire Creeps Kabanchiki Wow.zip",
+   "asset": "Dire.Creeps.Kabanchiki.Wow.zip",
+   "tag": "creeps",
+   "size": 418795,
+   "sha256": "b6658252fedd22bbb5ae62d2f5fcdc5ddf272f6003013c7197d2fa5fb63eac9b",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/creeps/Dire.Creeps.Kabanchiki.Wow.zip"
+  },
+  {
+   "category": "creeps",
    "name": "Diretide Dire Creeps.zip",
    "asset": "Diretide.Dire.Creeps.zip",
    "tag": "creeps",
@@ -2049,6 +2067,15 @@
    "size": 382313,
    "sha256": "61294603a20622e1976f143ec3e0254d4ea0fb78c9a8e57642fe4adf8c9e979f",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/creeps/Pine.Radiant.Creeps.zip"
+  },
+  {
+   "category": "creeps",
+   "name": "Radiant Creeps Kabanchiki Wow.zip",
+   "asset": "Radiant.Creeps.Kabanchiki.Wow.zip",
+   "tag": "creeps",
+   "size": 1490715,
+   "sha256": "d95b31f1af594c3d0e860b1f1b71416d05ce2070b277214e102d61c5360de22b",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/creeps/Radiant.Creeps.Kabanchiki.Wow.zip"
   },
   {
    "category": "creeps",
