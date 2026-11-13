@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-12T14:36:25+00:00",
+ "generated": "2026-11-13T18:59:21+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 408
+   "count": 412
   },
   {
    "tag": "heroes-2",
@@ -11484,6 +11484,15 @@
   },
   {
    "category": "heroes",
+   "name": "Tinker Warcraft.zip",
+   "asset": "Tinker.Warcraft.zip",
+   "tag": "heroes-1",
+   "size": 1865674,
+   "sha256": "768b06abdcaa3eb8cfc9b96ad7a6fdb7239d6bb9d3ca7b50cf22cfb2d784b8d1",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Tinker.Warcraft.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Tiny Cherepashka.zip",
    "asset": "Tiny.Cherepashka.zip",
    "tag": "heroes-2",
@@ -11922,6 +11931,33 @@
    "size": 10114105,
    "sha256": "6ea482cbd8d015a073c7366a49d0fabef7b7dc2453c9b0f41ae5128782041d9c",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Void.Spirit.Keqing.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Abaddon.zip",
+   "asset": "Warcraft.3.Abaddon.zip",
+   "tag": "heroes-1",
+   "size": 1085614,
+   "sha256": "c3852f59621f8439df63da90edd0ff5be4edf95523130d50203f822a6df7f1db",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Abaddon.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Alchemist.zip",
+   "asset": "Warcraft.3.Alchemist.zip",
+   "tag": "heroes-1",
+   "size": 3267008,
+   "sha256": "7cb89fbc86036754cf61b982c254a81228246384972969c4bb875ec64c4f94f6",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Alchemist.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Ancient Apparition.zip",
+   "asset": "Warcraft.3.Ancient.Apparition.zip",
+   "tag": "heroes-1",
+   "size": 3358754,
+   "sha256": "84872db297f7e31ac1b11e908768e1423c7658c83f0cffaf184195c3c71ce253",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Ancient.Apparition.zip"
   },
   {
    "category": "heroes",
