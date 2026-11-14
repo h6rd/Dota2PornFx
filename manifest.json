@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-13T20:28:35+00:00",
+ "generated": "2026-11-14T09:40:53+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 432
+   "count": 433
   },
   {
    "tag": "heroes-2",
@@ -14571,6 +14571,17 @@
   },
   {
    "category": "heroes",
+   "name": "Warcraft 3 Arc Warden.zip",
+   "asset": "Warcraft.3.Arc.Warden.zip",
+   "tag": "heroes-1",
+   "size": 1419893,
+   "sha256": "db28677905956d1be45edac71857845aaf3442eac15fe367c52a35fd8e221f54",
+   "date": 1794649159,
+   "commit": "84fc7129cbd1069fcb37f06d1f132c19ec2b5ff7",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Arc.Warden.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Warcraft 3 Axe.zip",
    "asset": "Warcraft.3.Axe.zip",
    "tag": "heroes-1",
@@ -18028,11 +18039,11 @@
    "name": "Warcraft III Neutrals.zip",
    "asset": "Warcraft.III.Neutrals.zip",
    "tag": "neutral-creeps",
-   "size": 31863298,
-   "sha256": "fc4a65efce4057ddb8b84d009e7a9bb134639b4015b8e973f620475198029bf6",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/neutral-creeps/Warcraft.III.Neutrals.zip",
-   "date": 1793866697,
-   "commit": "f1b462a5b2fca0169d7339829941287b65071296"
+   "size": 32182634,
+   "sha256": "f9f3bd6976cdad412ab5ed2f83705a5c53e8af68433352fc399dadf279f1cbce",
+   "date": 1794649159,
+   "commit": "84fc7129cbd1069fcb37f06d1f132c19ec2b5ff7",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/neutral-creeps/Warcraft.III.Neutrals.zip"
   },
   {
    "category": "optimization",
