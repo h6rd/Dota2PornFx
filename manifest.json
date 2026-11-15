@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-15T21:45:50+00:00",
+ "generated": "2026-11-15T22:35:29+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 459
+   "count": 460
   },
   {
    "tag": "heroes-2",
@@ -14678,6 +14678,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Ancient.Apparition.zip",
    "date": 1794596240,
    "commit": "e58c48d6d9a20bde030958db1c8dc84392d963f8"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Anti-Mage.zip",
+   "asset": "Warcraft.3.Anti-Mage.zip",
+   "tag": "heroes-1",
+   "size": 17914008,
+   "sha256": "fb7528d07e6fb15d4a49e6f385808985e6876379e1596d6ddd25ad13acd2c37f",
+   "date": 1794782048,
+   "commit": "f97f2cfeeae2ca478bd011d1423c03978b0b765e",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Anti-Mage.zip"
   },
   {
    "category": "heroes",
