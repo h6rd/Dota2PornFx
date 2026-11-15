@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-15T21:15:31+00:00",
+ "generated": "2026-11-15T21:45:50+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 439
+   "count": 459
   },
   {
    "tag": "heroes-2",
@@ -14909,6 +14909,226 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Death.Prophet.zip",
    "date": 1794600940,
    "commit": "7b4baf9d23aa6be235742225174e4701370dd326"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Disruptor.zip",
+   "asset": "Warcraft.3.Disruptor.zip",
+   "tag": "heroes-1",
+   "size": 1012494,
+   "sha256": "b6e35e5c4feac1c3c299a93a1a6865e3576c8a0e7d23f31bda5528300817f78c",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Disruptor.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Doom.zip",
+   "asset": "Warcraft.3.Doom.zip",
+   "tag": "heroes-1",
+   "size": 746471,
+   "sha256": "0a3e49965baac99adfbe68d5c0b73aed4e03f39c92f9d6cf75883f1afc8ff238",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Doom.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Dragon Knight.zip",
+   "asset": "Warcraft.3.Dragon.Knight.zip",
+   "tag": "heroes-1",
+   "size": 1060667,
+   "sha256": "43022a8a4a0d4eea5842201f53687d31f9ce50b8aed7eb58c41c9423837a4614",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Dragon.Knight.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Drow Ranger.zip",
+   "asset": "Warcraft.3.Drow.Ranger.zip",
+   "tag": "heroes-1",
+   "size": 792078,
+   "sha256": "0c919a3bed14e895ac7257ccb0c65a2b47f7fe21abe2f31ebdf5ab4feda32e28",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Drow.Ranger.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Earth Spirit.zip",
+   "asset": "Warcraft.3.Earth.Spirit.zip",
+   "tag": "heroes-1",
+   "size": 1112861,
+   "sha256": "b4ba794b1ed218e2d540a735bffeb18c1e2076b9ee5a885e21df861d87281639",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Earth.Spirit.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Earthshaker.zip",
+   "asset": "Warcraft.3.Earthshaker.zip",
+   "tag": "heroes-1",
+   "size": 495978,
+   "sha256": "3f267977d4583f3c3465c50411a5ef30f33434970ad4acc559516dfeea3d3222",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Earthshaker.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Elder Titan.zip",
+   "asset": "Warcraft.3.Elder.Titan.zip",
+   "tag": "heroes-1",
+   "size": 1625636,
+   "sha256": "9ab6447dea4343272e2a100e6fa891b7803d17083c64c9c52e5a5ec2c05732e1",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Elder.Titan.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Ember Spirit.zip",
+   "asset": "Warcraft.3.Ember.Spirit.zip",
+   "tag": "heroes-1",
+   "size": 964852,
+   "sha256": "2023d306e853b35774aec83dc5b2959cd85a643ba8cd6821c7bdc0b7d84b0847",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Ember.Spirit.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Enchantress.zip",
+   "asset": "Warcraft.3.Enchantress.zip",
+   "tag": "heroes-1",
+   "size": 632193,
+   "sha256": "08dece5ae79d3a92a19d6e3b0e653bd1d7bebd6c467152a7b6b28736ae2d55ca",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Enchantress.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Enigma.zip",
+   "asset": "Warcraft.3.Enigma.zip",
+   "tag": "heroes-1",
+   "size": 10030274,
+   "sha256": "1f0fabc8eec83e52a48c3ff0a445dd534c1d9a3e19b94f2a8d9671b16f632a82",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Enigma.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Faceless Void.zip",
+   "asset": "Warcraft.3.Faceless.Void.zip",
+   "tag": "heroes-1",
+   "size": 1065716,
+   "sha256": "8cdd830459efc73fb3a6e06a73b1e3c24266e4171f99dbd03218b9e82dbc0399",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Faceless.Void.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Grimstroke.zip",
+   "asset": "Warcraft.3.Grimstroke.zip",
+   "tag": "heroes-1",
+   "size": 918317,
+   "sha256": "d88f1e732c8d46c406f1ebb5b39a45f562169d08273cb08d56b0e4c2071dfa84",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Grimstroke.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Gyrocopter.zip",
+   "asset": "Warcraft.3.Gyrocopter.zip",
+   "tag": "heroes-1",
+   "size": 1126438,
+   "sha256": "3196ae8479040237de8bb5074fc83bc988236d164140dd8acd96fdd6acad46db",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Gyrocopter.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Hoodwink.zip",
+   "asset": "Warcraft.3.Hoodwink.zip",
+   "tag": "heroes-1",
+   "size": 2010914,
+   "sha256": "ead4da37521fda698e05de0538fe304f0644151e7daa22af0738ce8e51abef80",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Hoodwink.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Huskar.zip",
+   "asset": "Warcraft.3.Huskar.zip",
+   "tag": "heroes-1",
+   "size": 1017382,
+   "sha256": "bc6c31613e4733a18b451a8773e17556ce2f5e147d6c6be209c3056c027d5fbb",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Huskar.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Invoker.zip",
+   "asset": "Warcraft.3.Invoker.zip",
+   "tag": "heroes-1",
+   "size": 5367391,
+   "sha256": "1237132805f92fa77fd4718dfd292fbe299697e587a94ada3c1f0f995fff05e8",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Invoker.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 IO.zip",
+   "asset": "Warcraft.3.IO.zip",
+   "tag": "heroes-1",
+   "size": 432011,
+   "sha256": "25a12decd3d82ad8464327949a252be57bec4d7d017ce3ddd0a83f650f338d42",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.IO.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Jakiro.zip",
+   "asset": "Warcraft.3.Jakiro.zip",
+   "tag": "heroes-1",
+   "size": 1429869,
+   "sha256": "8ee03dcc809416ba7a456dfbba42c4d8dc65f78e96bf7f99a3b9378d2b604799",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Jakiro.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Juggernaut.zip",
+   "asset": "Warcraft.3.Juggernaut.zip",
+   "tag": "heroes-1",
+   "size": 1102364,
+   "sha256": "22727ef5f3f6be08c0353400fbbfb502d89b941dc8ecfd8fe9a550dfd21bb4f7",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Juggernaut.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Keeper of the Light.zip",
+   "asset": "Warcraft.3.Keeper.of.the.Light.zip",
+   "tag": "heroes-1",
+   "size": 1183839,
+   "sha256": "0f3b74c2aadaa9e2c40c166d0d21391f9d906240d5df05c491b9aa7e3338ace0",
+   "date": 1794779021,
+   "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Keeper.of.the.Light.zip"
   },
   {
    "category": "heroes",
