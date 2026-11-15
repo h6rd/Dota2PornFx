@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-15T02:08:21+00:00",
+ "generated": "2026-11-15T20:43:00+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 115
+   "count": 116
   },
   {
    "tag": "couriers",
@@ -60,12 +60,12 @@
   {
    "tag": "hero-sounds",
    "category": "hero-sounds",
-   "count": 66
+   "count": 69
   },
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 436
+   "count": 439
   },
   {
    "tag": "heroes-2",
@@ -105,7 +105,7 @@
   {
    "tag": "music",
    "category": "music",
-   "count": 22
+   "count": 23
   },
   {
    "tag": "neutral-creeps",
@@ -125,7 +125,7 @@
   {
    "tag": "parts",
    "category": "parts",
-   "count": 67
+   "count": 70
   },
   {
    "tag": "pedestal",
@@ -165,7 +165,7 @@
   {
    "tag": "sounds",
    "category": "sounds",
-   "count": 27
+   "count": 29
   },
   {
    "tag": "terrains",
@@ -807,6 +807,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Jenna.Wallpaper.zip",
    "date": 1792609094,
    "commit": "5971b5e82af7411a0da9b8499ed63a32b33b4163"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Juuzou Suzuya Bg.zip",
+   "asset": "Juuzou.Suzuya.Bg.zip",
+   "tag": "backgrounds",
+   "size": 127064,
+   "sha256": "8fdf0ec3176081af6d14056fa24be1aa8665a70435f4fe6f2c8d4cd6e331877e",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Juuzou.Suzuya.Bg.zip"
   },
   {
    "category": "backgrounds",
@@ -5529,6 +5540,17 @@
   },
   {
    "category": "hero-sounds",
+   "name": "Keeper Of The Light Taunt 10000 Weeping.zip",
+   "asset": "Keeper.Of.The.Light.Taunt.10000.Weeping.zip",
+   "tag": "hero-sounds",
+   "size": 730725,
+   "sha256": "4cf7f830d4dfcca6418dbead08e015fad86dc60e351ec2ef831d7289f1a4c69f",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Keeper.Of.The.Light.Taunt.10000.Weeping.zip"
+  },
+  {
+   "category": "hero-sounds",
    "name": "Kotl Spirit Form Litvin Sound.zip",
    "asset": "Kotl.Spirit.Form.Litvin.Sound.zip",
    "tag": "hero-sounds",
@@ -5570,6 +5592,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Largo.Serega.Pirat.zip",
    "date": 1784792710,
    "commit": "f1947a618d214ee857fa6529214507b29d41becb"
+  },
+  {
+   "category": "hero-sounds",
+   "name": "Largo Ult Kekht Arakh Sorrow.zip",
+   "asset": "Largo.Ult.Kekht.Arakh.Sorrow.zip",
+   "tag": "hero-sounds",
+   "size": 8413999,
+   "sha256": "125348d6a443cc5431d40b58603a8a9936ca8424667c21e30ca28df020edd7c6",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Largo.Ult.Kekht.Arakh.Sorrow.zip"
   },
   {
    "category": "hero-sounds",
@@ -5889,6 +5922,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Tinker.Taunt.92.zip",
    "date": 1793129686,
    "commit": "9233af8dcc48725bf6da8b8dfcc456ec26fb84a2"
+  },
+  {
+   "category": "hero-sounds",
+   "name": "Tsumugi Powershot.zip",
+   "asset": "Tsumugi.Powershot.zip",
+   "tag": "hero-sounds",
+   "size": 184052,
+   "sha256": "96307c8debf03262949867239cad1a9a7c47b94873905382d3c41f53a0f8e5a5",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Tsumugi.Powershot.zip"
   },
   {
    "category": "hero-sounds",
@@ -10105,6 +10149,17 @@
   },
   {
    "category": "heroes",
+   "name": "Lifestealer Automaton Ai.zip",
+   "asset": "Lifestealer.Automaton.Ai.zip",
+   "tag": "heroes-1",
+   "size": 14343935,
+   "sha256": "ce964a3f820226508f0bfe60302b5e3e4259099872030e71335164c5319ac5b6",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Lifestealer.Automaton.Ai.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Lifestealer Cong Yu.zip",
    "asset": "Lifestealer.Cong.Yu.zip",
    "tag": "heroes-1",
@@ -13834,6 +13889,17 @@
   },
   {
    "category": "heroes",
+   "name": "The Final Doom By Armair.zip",
+   "asset": "The.Final.Doom.By.Armair.zip",
+   "tag": "heroes-1",
+   "size": 4190820,
+   "sha256": "ba471300b5913eb0bce3aef5ebbc55a633e624b85c4264b712eaaadb257b5f03",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/The.Final.Doom.By.Armair.zip"
+  },
+  {
+   "category": "heroes",
    "name": "The Mawsworn Razor.zip",
    "asset": "The.Mawsworn.Razor.zip",
    "tag": "heroes-2",
@@ -14942,6 +15008,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Windranger.Compass.Rising.Gale.zip",
    "date": 1791793109,
    "commit": "e0a18c474b11434dccb7c2b6d3bcff95e4c3ccc6"
+  },
+  {
+   "category": "heroes",
+   "name": "Windranger Kotobuki Tsumugi.zip",
+   "asset": "Windranger.Kotobuki.Tsumugi.zip",
+   "tag": "heroes-1",
+   "size": 2809924,
+   "sha256": "9de12099f07d80bc337e4d2e78c082cbc732738ec524741507e028574382a793",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Windranger.Kotobuki.Tsumugi.zip"
   },
   {
    "category": "heroes",
@@ -17959,6 +18036,17 @@
   },
   {
    "category": "music",
+   "name": "Silent Blue Music.zip",
+   "asset": "Silent.Blue.Music.zip",
+   "tag": "music",
+   "size": 33078149,
+   "sha256": "a5bc2ea1fdaec69eb4fdba949c3b2126a37042c5e4755197dc7029625924a905",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/music/Silent.Blue.Music.zip"
+  },
+  {
+   "category": "music",
    "name": "Terraria Music.zip",
    "asset": "Terraria.Music.zip",
    "tag": "music",
@@ -19155,6 +19243,39 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/Vs.Creen.white.zip",
    "date": 1792946553,
    "commit": "fa012fb8564c5bd3fb22d8057822fb23533bfb65"
+  },
+  {
+   "category": "parts",
+   "name": "White Match Accept Popup.zip",
+   "asset": "White.Match.Accept.Popup.zip",
+   "tag": "parts",
+   "size": 26714,
+   "sha256": "f5c933f0b735975205dfa4170dbfcba5ee574dd19af6f5512271297d21560ce4",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/White.Match.Accept.Popup.zip"
+  },
+  {
+   "category": "parts",
+   "name": "White Match Finding.zip",
+   "asset": "White.Match.Finding.zip",
+   "tag": "parts",
+   "size": 89267,
+   "sha256": "4565766d715be441de3edc87090937c7a9da359e0bd2257c8807c80fa71a8f11",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/White.Match.Finding.zip"
+  },
+  {
+   "category": "parts",
+   "name": "White Play Button.zip",
+   "asset": "White.Play.Button.zip",
+   "tag": "parts",
+   "size": 15980,
+   "sha256": "6e67964e66ee6b99fda56aa413ff97c4be833944bc43cdcd28cb197c1b3d4991",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/White.Play.Button.zip"
   },
   {
    "category": "parts",
@@ -20599,6 +20720,17 @@
   },
   {
    "category": "sounds",
+   "name": "Noise Veil Sounds.zip",
+   "asset": "Noise.Veil.Sounds.zip",
+   "tag": "sounds",
+   "size": 13631954,
+   "sha256": "6a2e85ea140c76148645e2d50d2c95c650cf19a163a5c9eaf2cacda07c2d8f44",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Noise.Veil.Sounds.zip"
+  },
+  {
+   "category": "sounds",
    "name": "ReZero Respawn Sound.zip",
    "asset": "ReZero.Respawn.Sound.zip",
    "tag": "sounds",
@@ -20618,6 +20750,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/ReZero.Subaru.Phone.Horn.zip",
    "date": 1780816909,
    "commit": "537c343d41b08439f0d4bb5eb78638be72816ab5"
+  },
+  {
+   "category": "sounds",
+   "name": "Severance Mega Kill.zip",
+   "asset": "Severance.Mega.Kill.zip",
+   "tag": "sounds",
+   "size": 3137389,
+   "sha256": "3234d465333167668e54a7505b1e2b4cceeb8684db43fe64a993f1bf18232ce0",
+   "date": 1794775254,
+   "commit": "bbb0cb11d4e43d3f04380b3cb5d979c6fa380c18",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Severance.Mega.Kill.zip"
   },
   {
    "category": "sounds",
