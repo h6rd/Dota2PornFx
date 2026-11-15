@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-14T09:40:53+00:00",
+ "generated": "2026-11-15T02:08:21+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 114
+   "count": 115
   },
   {
    "tag": "couriers",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 433
+   "count": 436
   },
   {
    "tag": "heroes-2",
@@ -1302,6 +1302,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Sea.Of.Flowers.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Selfie Kafka Dc.zip",
+   "asset": "Selfie.Kafka.Dc.zip",
+   "tag": "backgrounds",
+   "size": 18531838,
+   "sha256": "cd83c484166962d247485181ab847195162ccbdd82f85b8531a79ada3ce1f81e",
+   "date": 1794708399,
+   "commit": "ff6bd9f90d1e74fd2936cc0120659a7376c37e3d",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Selfie.Kafka.Dc.zip"
   },
   {
    "category": "backgrounds",
@@ -9159,6 +9170,17 @@
   },
   {
    "category": "heroes",
+   "name": "Inbossik Invoker.zip",
+   "asset": "Inbossik.Invoker.zip",
+   "tag": "heroes-1",
+   "size": 1609245,
+   "sha256": "0be7f8ab61222aa74e49bb5a57708993d5f491ec35a899efb3d3bc002b460409",
+   "date": 1794708399,
+   "commit": "ff6bd9f90d1e74fd2936cc0120659a7376c37e3d",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Inbossik.Invoker.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Invoker Blackguard Magus.zip",
    "asset": "Invoker.Blackguard.Magus.zip",
    "tag": "heroes-1",
@@ -9464,6 +9486,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Jakiro.Kiyohime.zip",
    "date": 1771195327,
    "commit": "dfc89729ef2997081b6a22edebc600099a570d20"
+  },
+  {
+   "category": "heroes",
+   "name": "Jakiro Layn Dlya Krutix.zip",
+   "asset": "Jakiro.Layn.Dlya.Krutix.zip",
+   "tag": "heroes-1",
+   "size": 11336939,
+   "sha256": "233eea1de93241930f8310957c799ef8e25040ffef9eea7af21a0ff8e195fd01",
+   "date": 1794708399,
+   "commit": "ff6bd9f90d1e74fd2936cc0120659a7376c37e3d",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Jakiro.Layn.Dlya.Krutix.zip"
   },
   {
    "category": "heroes",
@@ -11741,6 +11774,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Phantom.Lancer.Ame.zip",
    "date": 1790424886,
    "commit": "36df0a932f296ad9b9f6bc253534aef620ea85ed"
+  },
+  {
+   "category": "heroes",
+   "name": "Phantom Lancer Arima.zip",
+   "asset": "Phantom.Lancer.Arima.zip",
+   "tag": "heroes-1",
+   "size": 11156720,
+   "sha256": "d752cb39772433a517c593a5d08df2e8c721209c027c395fed9822b4d90dd255",
+   "date": 1794708399,
+   "commit": "ff6bd9f90d1e74fd2936cc0120659a7376c37e3d",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Phantom.Lancer.Arima.zip"
   },
   {
    "category": "heroes",
