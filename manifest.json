@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-15T22:35:29+00:00",
+ "generated": "2026-11-16T20:44:42+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 460
+   "count": 463
   },
   {
    "tag": "heroes-2",
@@ -12041,6 +12041,17 @@
   },
   {
    "category": "heroes",
+   "name": "Prime Lycan.zip",
+   "asset": "Prime.Lycan.zip",
+   "tag": "heroes-1",
+   "size": 7035474,
+   "sha256": "154f058b7071d256e94cc627a6d17659d62a0a4f0fed8429e9eeea41ffa7fceb",
+   "date": 1794861785,
+   "commit": "248f9226bc523d41795728c0cbc5e9c9d7c9aa98",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Prime.Lycan.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Princess Naga Siren.zip",
    "asset": "Princess.Naga.Siren.zip",
    "tag": "heroes-2",
@@ -13900,6 +13911,17 @@
   },
   {
    "category": "heroes",
+   "name": "The Final Mars.zip",
+   "asset": "The.Final.Mars.zip",
+   "tag": "heroes-1",
+   "size": 12263648,
+   "sha256": "61d01aaebab3da6e546d31fc6a3723079075ed74af6eb02e7a86841fffec52f8",
+   "date": 1794861785,
+   "commit": "248f9226bc523d41795728c0cbc5e9c9d7c9aa98",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/The.Final.Mars.zip"
+  },
+  {
+   "category": "heroes",
    "name": "The Mawsworn Razor.zip",
    "asset": "The.Mawsworn.Razor.zip",
    "tag": "heroes-2",
@@ -13919,6 +13941,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/The.Nuclear.Arc.Warden.zip",
    "date": 1794039333,
    "commit": "c3cf5336c1ff7ea3863a5ab4bba7de3944e3ac96"
+  },
+  {
+   "category": "heroes",
+   "name": "The True Sand King.zip",
+   "asset": "The.True.Sand.King.zip",
+   "tag": "heroes-1",
+   "size": 4082169,
+   "sha256": "9b5ea659eb0de837835792a89ed99762e7ffe84f42877b12b63e7cf12df15df8",
+   "date": 1794861785,
+   "commit": "248f9226bc523d41795728c0cbc5e9c9d7c9aa98",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/The.True.Sand.King.zip"
   },
   {
    "category": "heroes",
