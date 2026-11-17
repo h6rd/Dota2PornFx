@@ -1,0 +1,102 @@
+
+name: Sync manifest.json to Hugging Face
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - manifest.json
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hf-dataset-manifest-sync
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Hugging Face Hub
+        run: pip install -U huggingface_hub
+
+      - name: Upload manifest.json safely
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os
+          import time
+
+          from huggingface_hub import HfApi
+
+          REPO_ID = "hrdq/Dota2PornFx"
+          REPO_TYPE = "dataset"
+          FILE = "manifest.json"
+          MAX_ATTEMPTS = 6
+
+          api = HfApi(token=os.environ["HF_TOKEN"])
+
+          for attempt in range(1, MAX_ATTEMPTS + 1):
+              try:
+                  info = api.repo_info(
+                      repo_id=REPO_ID,
+                      repo_type=REPO_TYPE,
+                      revision="main",
+                  )
+
+                  parent_sha = info.sha
+
+                  print(
+                      f"Attempt {attempt}/{MAX_ATTEMPTS}: "
+                      f"HF main is at {parent_sha}"
+                  )
+
+                  api.upload_file(
+                      path_or_fileobj=FILE,
+                      path_in_repo=FILE,
+                      repo_id=REPO_ID,
+                      repo_type=REPO_TYPE,
+                      revision="main",
+                      parent_commit=parent_sha,
+                      commit_message="Update manifest.json from GitHub",
+                  )
+
+                  print("Successfully uploaded manifest.json!")
+                  break
+
+              except Exception as exc:
+                  response = getattr(exc, "response", None)
+                  status = getattr(response, "status_code", None)
+
+                  retryable = (
+                      status is None
+                      or status in (409, 412, 423, 429)
+                      or status >= 500
+                  )
+
+                  if not retryable or attempt == MAX_ATTEMPTS:
+                      raise
+
+                  wait = min(5 * attempt, 30)
+
+                  print(
+                      f"Upload conflict/error (HTTP {status}): {exc}"
+                  )
+                  print(f"Retrying in {wait} seconds...")
+                  time.sleep(wait)
+          else:
+              raise RuntimeError("Upload failed after all attempts")
+          PY
