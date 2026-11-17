@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-17T11:22:45+00:00",
+ "generated": "2026-11-17T22:06:04+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 464
+   "count": 465
   },
   {
    "tag": "heroes-2",
@@ -120,7 +120,7 @@
   {
    "tag": "other",
    "category": "other",
-   "count": 29
+   "count": 31
   },
   {
    "tag": "parts",
@@ -165,7 +165,7 @@
   {
    "tag": "sounds",
    "category": "sounds",
-   "count": 29
+   "count": 33
   },
   {
    "tag": "terrains",
@@ -6868,6 +6868,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Bloody.Death.Prophet.zip",
    "date": 1756923920,
    "commit": "9039e295389cd0a5c423f7afaf5e6cd3eaa8132c"
+  },
+  {
+   "category": "heroes",
+   "name": "Bloody Dragon Knight.zip",
+   "asset": "Bloody.Dragon.Knight.zip",
+   "tag": "heroes-1",
+   "size": 4931686,
+   "sha256": "3c813d57c25dd9d7fc09638488c9be4d5e7d54f6259d8d9b2740a538e1245f12",
+   "date": 1794953058,
+   "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Bloody.Dragon.Knight.zip"
   },
   {
    "category": "heroes",
@@ -18751,6 +18762,17 @@
   },
   {
    "category": "other",
+   "name": "Simple Tower Re-Aggro Radius.zip",
+   "asset": "Simple.Tower.Re-Aggro.Radius.zip",
+   "tag": "other",
+   "size": 5769,
+   "sha256": "ef766ed3ef7a778546fe0cf9545765f04b21cf11466d319e2ca561e1477ff2c5",
+   "date": 1794953058,
+   "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/other/Simple.Tower.Re-Aggro.Radius.zip"
+  },
+  {
+   "category": "other",
    "name": "Techies Mine Radius.zip",
    "asset": "Techies.Mine.Radius.zip",
    "tag": "other",
@@ -18803,6 +18825,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/other/White.Click.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "other",
+   "name": "White Clicks.zip",
+   "asset": "White.Clicks.zip",
+   "tag": "other",
+   "size": 17019,
+   "sha256": "68c4612a60e84301b484e3ccd41d629b7a09912376917b039c9011f668298d6d",
+   "date": 1794953058,
+   "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/other/White.Clicks.zip"
   },
   {
    "category": "other",
@@ -21135,6 +21168,50 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Warcraft.3.Allstars.Voices.Ru.zip",
    "date": 1793862465,
    "commit": "035f9691b4fd45d2346c453427864657b8d0ea6b"
+  },
+  {
+   "category": "sounds",
+   "name": "Warcraft 3 Voices French.zip",
+   "asset": "Warcraft.3.Voices.French.zip",
+   "tag": "sounds",
+   "size": 35018944,
+   "sha256": "9a521ec8b0ecd333832baca51402d94794f365367e565ac2f354a839084e1ec9",
+   "date": 1794953058,
+   "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Warcraft.3.Voices.French.zip"
+  },
+  {
+   "category": "sounds",
+   "name": "Warcraft 3 Voices Italian.zip",
+   "asset": "Warcraft.3.Voices.Italian.zip",
+   "tag": "sounds",
+   "size": 38885551,
+   "sha256": "4d697c619f6c8efe4df282736da13591e21f7a2603e7267c942ccfee956d287b",
+   "date": 1794953058,
+   "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Warcraft.3.Voices.Italian.zip"
+  },
+  {
+   "category": "sounds",
+   "name": "Warcraft 3 Voices Spanish La.zip",
+   "asset": "Warcraft.3.Voices.Spanish.La.zip",
+   "tag": "sounds",
+   "size": 39627367,
+   "sha256": "bb857a75f8466ebb2e1e76c9a4e0ab6efc17b97cc3db83e71df1606ec416bccd",
+   "date": 1794953058,
+   "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Warcraft.3.Voices.Spanish.La.zip"
+  },
+  {
+   "category": "sounds",
+   "name": "Warcraft 3 Voices Spanish.zip",
+   "asset": "Warcraft.3.Voices.Spanish.zip",
+   "tag": "sounds",
+   "size": 40049727,
+   "sha256": "d46ec49e09aa0425f1ddec7054c59c709fb5b760b1121a15a26bf46aedfaab80",
+   "date": 1794953058,
+   "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Warcraft.3.Voices.Spanish.zip"
   },
   {
    "category": "sounds",
