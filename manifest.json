@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-16T20:44:42+00:00",
+ "generated": "2026-11-17T11:22:45+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 463
+   "count": 464
   },
   {
    "tag": "heroes-2",
@@ -10597,6 +10597,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Maid.Marci.zip",
    "date": 1763042018,
    "commit": "eef197552c5ac1f66c851e777057d5bea0f94c47"
+  },
+  {
+   "category": "heroes",
+   "name": "Malrine Type Primal Beast.zip",
+   "asset": "Malrine.Type.Primal.Beast.zip",
+   "tag": "heroes-1",
+   "size": 8085336,
+   "sha256": "64906bd54beecad5b16ffb35656a74d30ccc86a349e3086a3a2beff84ad6f771",
+   "date": 1794914486,
+   "commit": "c3df9cb9e54766becce7a3edf3fd6d6b99165e92",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Malrine.Type.Primal.Beast.zip"
   },
   {
    "category": "heroes",
