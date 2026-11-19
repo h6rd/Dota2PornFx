@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-19T00:07:06+00:00",
+ "generated": "2026-11-19T06:08:01+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -21284,10 +21284,10 @@
    "name": "Autumn.zip",
    "asset": "Autumn.zip",
    "tag": "terrains",
-   "size": 18814144,
-   "sha256": "52566c1f840f3df7a271ebec34cc8877e93cf8249815f838e15f6189746b366b",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 18820546,
+   "sha256": "db8f6e54571c7691023e06176ba45046060203a029bcc791301295d4c114fa73",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/Autumn.zip"
   },
   {
@@ -21306,10 +21306,10 @@
    "name": "Crownfall.zip",
    "asset": "Crownfall.zip",
    "tag": "terrains",
-   "size": 29284304,
-   "sha256": "d8f06d2d5d008297c7c441ea046ed000368ad661b68a72e6a10e9ef72f9a7f2d",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 29308876,
+   "sha256": "fe8e6e908e88a52bc825bbb3897ee7babd0125b85a9971f4324594b29d8a0c19",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/Crownfall.zip"
   },
   {
@@ -21405,10 +21405,10 @@
    "name": "Spring.zip",
    "asset": "Spring.zip",
    "tag": "terrains",
-   "size": 19348924,
-   "sha256": "7026419b104f2fd78150d9f58ad4cc6c3ebedf4dcdab411a076cd17996ef96aa",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 19438041,
+   "sha256": "2e7a06993eabc3cf2da722881af6d1b51d71a77f54a10d4a7378b351dd74d4ab",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/Spring.zip"
   },
   {
@@ -21416,10 +21416,10 @@
    "name": "Summer.zip",
    "asset": "Summer.zip",
    "tag": "terrains",
-   "size": 19068288,
-   "sha256": "b39eb2d363200d0b77aedc654adbf67abbbd4deb499591556960562f139bd938",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 19134194,
+   "sha256": "727184a2abee2e3ffceb421d6ad518c802e03d4f82cbcf9061f6fe79a6a2c825",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/Summer.zip"
   },
   {
@@ -21427,10 +21427,10 @@
    "name": "The Kings New Journey.zip",
    "asset": "The.Kings.New.Journey.zip",
    "tag": "terrains",
-   "size": 19821860,
-   "sha256": "5d295c40b4a09711a541a921596188de1cdfddcecd1e7f70a454a78abc342a57",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 19842971,
+   "sha256": "8a2793ce6bd7161f7766fd67913fe2dec174ac689897e57c916f4495a3fbdee7",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/The.Kings.New.Journey.zip"
   },
   {
@@ -21438,10 +21438,10 @@
    "name": "TI10 Sanctum of the Divine.zip",
    "asset": "TI10.Sanctum.of.the.Divine.zip",
    "tag": "terrains",
-   "size": 24297036,
-   "sha256": "d8f29942fb1a0f468aa32216519e146110f2118b52f7ee5c8f3620286c34936a",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 24294264,
+   "sha256": "4a8811c23a1b9cd1d5d8cbce0bba297e04ea6d0d481f805a5409c019c688e860",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/TI10.Sanctum.of.the.Divine.zip"
   },
   {
@@ -21449,10 +21449,10 @@
    "name": "TI5 Desert Terrain.zip",
    "asset": "TI5.Desert.Terrain.zip",
    "tag": "terrains",
-   "size": 21330912,
-   "sha256": "19635b0e36ae19d3ae758e8e68db7b56de1336646bc9136d8233e535b9a9653e",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 21349778,
+   "sha256": "ef749e7dd18c4ba5c15b95622287d242dcfb0901824d9659703dee69578184af",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/TI5.Desert.Terrain.zip"
   },
   {
@@ -21460,10 +21460,10 @@
    "name": "TI6 Immortal Gardens.zip",
    "asset": "TI6.Immortal.Gardens.zip",
    "tag": "terrains",
-   "size": 19972230,
-   "sha256": "f8d6841c46f49db7b8a0b76ab1f5d3d8d82e390d76649af5c2858339bd4207be",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 19957524,
+   "sha256": "f6b0e9542ef5122b8613ef5fd0658872e15101504fcc172e2a827fca88cb6b7e",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/TI6.Immortal.Gardens.zip"
   },
   {
@@ -21471,10 +21471,10 @@
    "name": "TI7 Reefs Edge.zip",
    "asset": "TI7.Reefs.Edge.zip",
    "tag": "terrains",
-   "size": 19517863,
-   "sha256": "b9b84dfc7952eaf89bf0162ebd10015a004c84f191d15629fa7e602ca1ea5be8",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 19533197,
+   "sha256": "101bda2787d7b688a2f263c346a0d399b2c791d1d711b3c26d318519be32e5c1",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/TI7.Reefs.Edge.zip"
   },
   {
@@ -21482,10 +21482,10 @@
    "name": "TI8 Emerald Abyss.zip",
    "asset": "TI8.Emerald.Abyss.zip",
    "tag": "terrains",
-   "size": 21046756,
-   "sha256": "47872d07a36a2e3017ef2b5bdd11395331bd692707af99fd304e6229bff08aeb",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 21147517,
+   "sha256": "8dabfa11e784ff85f9aa1982cc06c78923a600302f769575a472e7e45a5f7e28",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/TI8.Emerald.Abyss.zip"
   },
   {
@@ -21493,10 +21493,10 @@
    "name": "TI9 Overgrown Empire.zip",
    "asset": "TI9.Overgrown.Empire.zip",
    "tag": "terrains",
-   "size": 20112927,
-   "sha256": "3ddb3188f13665723437dd3fc230bfbe9069128fcf4a3b50a5fec9b31013fcfd",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 20128309,
+   "sha256": "8b6e9431c0960e82788608f66b861bd7bfb7ee50ad5f89037a7fd3315961679b",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/TI9.Overgrown.Empire.zip"
   },
   {
@@ -21515,10 +21515,10 @@
    "name": "Winter.zip",
    "asset": "Winter.zip",
    "tag": "terrains",
-   "size": 22285588,
-   "sha256": "598b6dd71c308ea47bb422f4e362ed45cbbf1e246962aaa2fbed6e1aa9524f04",
-   "date": 1795044485,
-   "commit": "eab6465b6d40f697b44c9b35519403391efe0c04",
+   "size": 22328867,
+   "sha256": "cf04060b3a5ddeb9da68691b420dcc84014c04a45ace0e971951b95b065f04a1",
+   "date": 1795068263,
+   "commit": "62e6b2fc95b0c3cf0d65622aea3c935d2542e037",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/terrains/Winter.zip"
   },
   {
