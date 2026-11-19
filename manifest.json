@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-19T06:08:01+00:00",
+ "generated": "2026-11-19T10:58:03+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 117
+   "count": 119
   },
   {
    "tag": "couriers",
@@ -1302,6 +1302,28 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Sakura.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Saya No Uta Cloud.zip",
+   "asset": "Saya.No.Uta.Cloud.zip",
+   "tag": "backgrounds",
+   "size": 325634,
+   "sha256": "c73134f7f15f382412b92c49387459d23b59f8c2ea53bf56f1fdb022dce92bb9",
+   "date": 1795085800,
+   "commit": "e8f0c2662b257176e6601f5d898581ec87a09912",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Saya.No.Uta.Cloud.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Saya No Uta Hair.zip",
+   "asset": "Saya.No.Uta.Hair.zip",
+   "tag": "backgrounds",
+   "size": 561242,
+   "sha256": "80fd386d03c8f3ef8aac87e104ae06b53666a289adbd6808980c9120fbd08a60",
+   "date": 1795085800,
+   "commit": "e8f0c2662b257176e6601f5d898581ec87a09912",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Saya.No.Uta.Hair.zip"
   },
   {
    "category": "backgrounds",
