@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-18T23:32:09+00:00",
+ "generated": "2026-11-19T00:07:06+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 116
+   "count": 117
   },
   {
    "tag": "couriers",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 465
+   "count": 466
   },
   {
    "tag": "heroes-2",
@@ -100,7 +100,7 @@
   {
    "tag": "mega-kill",
    "category": "mega-kill",
-   "count": 43
+   "count": 45
   },
   {
    "tag": "music",
@@ -165,7 +165,7 @@
   {
    "tag": "sounds",
    "category": "sounds",
-   "count": 33
+   "count": 34
   },
   {
    "tag": "terrains",
@@ -195,7 +195,7 @@
   {
    "tag": "trees",
    "category": "trees",
-   "count": 31
+   "count": 32
   },
   {
    "tag": "versus-screens",
@@ -1335,6 +1335,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Sematary.zip",
    "date": 1791908483,
    "commit": "16c77ccd66fac0402db607f8078cf8bb758b286b"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Sewerslvt.zip",
+   "asset": "Sewerslvt.zip",
+   "tag": "backgrounds",
+   "size": 5225412,
+   "sha256": "6ad2eae3cd09c4246c0aba795183f33e465181548276c7327e915e9b24f0a74a",
+   "date": 1795046713,
+   "commit": "9252391ca24d9974bab94fe5b10ad82204d53ddd",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Sewerslvt.zip"
   },
   {
    "category": "backgrounds",
@@ -11304,6 +11315,17 @@
   },
   {
    "category": "heroes",
+   "name": "Natures Prophet Treant Swap.zip",
+   "asset": "Natures.Prophet.Treant.Swap.zip",
+   "tag": "heroes-1",
+   "size": 831552,
+   "sha256": "ae4ea68cd896f59141fb86dc1c85b1a12fbb5718b2526a3944115fbcb303835b",
+   "date": 1795046713,
+   "commit": "9252391ca24d9974bab94fe5b10ad82204d53ddd",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Natures.Prophet.Treant.Swap.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Necrophos Eucliwood Halsace.zip",
    "asset": "Necrophos.Eucliwood.Halsace.zip",
    "tag": "heroes-2",
@@ -17750,6 +17772,17 @@
   },
   {
    "category": "mega-kill",
+   "name": "Ambient Mega Kill.zip",
+   "asset": "Ambient.Mega.Kill.zip",
+   "tag": "mega-kill",
+   "size": 1044112,
+   "sha256": "7b3ce5595468e6e10132c34331d5b8089131b6a4fc24a5f012992ac2dd19b947",
+   "date": 1795046713,
+   "commit": "9252391ca24d9974bab94fe5b10ad82204d53ddd",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/mega-kill/Ambient.Mega.Kill.zip"
+  },
+  {
+   "category": "mega-kill",
    "name": "Axe.zip",
    "asset": "Axe.zip",
    "tag": "mega-kill",
@@ -18176,6 +18209,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/mega-kill/Umbrella.Mega-Kill.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "mega-kill",
+   "name": "Viperr Mega Kill.zip",
+   "asset": "Viperr.Mega.Kill.zip",
+   "tag": "mega-kill",
+   "size": 5879095,
+   "sha256": "eb24e2dd22f73d60274795f5fb439446e06876c1d874d67a9fe7442f45feb855",
+   "date": 1795046713,
+   "commit": "9252391ca24d9974bab94fe5b10ad82204d53ddd",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/mega-kill/Viperr.Mega.Kill.zip"
   },
   {
    "category": "mega-kill",
@@ -21193,6 +21237,17 @@
   },
   {
    "category": "sounds",
+   "name": "Warcraft 3 Voices Korean.zip",
+   "asset": "Warcraft.3.Voices.Korean.zip",
+   "tag": "sounds",
+   "size": 39846908,
+   "sha256": "e96d2bb6bc269741bde377def5db00dd267ad76d779185ffd10a048c9ce163c4",
+   "date": 1795046713,
+   "commit": "9252391ca24d9974bab94fe5b10ad82204d53ddd",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Warcraft.3.Voices.Korean.zip"
+  },
+  {
+   "category": "sounds",
    "name": "Warcraft 3 Voices Spanish La.zip",
    "asset": "Warcraft.3.Voices.Spanish.La.zip",
    "tag": "sounds",
@@ -22037,6 +22092,17 @@
    "date": 1794777219,
    "commit": "d081d2500fb24c0ad20e5578f5352e2ba924d876",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/trees/Gravestones.Trees.zip"
+  },
+  {
+   "category": "trees",
+   "name": "Gray Trees.zip",
+   "asset": "Gray.Trees.zip",
+   "tag": "trees",
+   "size": 58608,
+   "sha256": "5301f59ac1139ebd3849a3d420ba344a1bb8bfd5091bc6bc0d45d9d82379aeff",
+   "date": 1795046713,
+   "commit": "9252391ca24d9974bab94fe5b10ad82204d53ddd",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/trees/Gray.Trees.zip"
   },
   {
    "category": "trees",
