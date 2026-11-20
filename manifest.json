@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-20T08:31:48+00:00",
+ "generated": "2026-11-20T09:46:53+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 477
+   "count": 478
   },
   {
    "tag": "heroes-2",
@@ -13523,6 +13523,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Spirit.Breaker.Ghost.Monster.zip",
    "date": 1756539017,
    "commit": "a4d1dcca84f1ff388cc455fb80a99ea9eb917689"
+  },
+  {
+   "category": "heroes",
+   "name": "Spirit Breaker Lada 2107.zip",
+   "asset": "Spirit.Breaker.Lada.2107.zip",
+   "tag": "heroes-1",
+   "size": 9926588,
+   "sha256": "daf8b2178753b520d9856716b220ce3b800ee977cb4d4ca8ee977c2f926198a4",
+   "date": 1795168005,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Spirit.Breaker.Lada.2107.zip"
   },
   {
    "category": "heroes",
