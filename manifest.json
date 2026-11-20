@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-20T07:59:23+00:00",
+ "generated": "2026-11-20T08:13:56+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 123
+   "count": 130
   },
   {
    "tag": "couriers",
@@ -60,12 +60,12 @@
   {
    "tag": "hero-sounds",
    "category": "hero-sounds",
-   "count": 69
+   "count": 70
   },
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 475
+   "count": 476
   },
   {
    "tag": "heroes-2",
@@ -95,12 +95,12 @@
   {
    "tag": "item-icons",
    "category": "item-icons",
-   "count": 11
+   "count": 12
   },
   {
    "tag": "mega-kill",
    "category": "mega-kill",
-   "count": 45
+   "count": 46
   },
   {
    "tag": "music",
@@ -120,7 +120,7 @@
   {
    "tag": "other",
    "category": "other",
-   "count": 31
+   "count": 33
   },
   {
    "tag": "parts",
@@ -370,6 +370,17 @@
   },
   {
    "category": "backgrounds",
+   "name": "Ahegao.zip",
+   "asset": "Ahegao.zip",
+   "tag": "backgrounds",
+   "size": 264806,
+   "sha256": "4ba420a30a2c52b5624a0841fffb68cb5ea60ec336bd25b8c24fe45a4d3b0e98",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Ahegao.zip"
+  },
+  {
+   "category": "backgrounds",
    "name": "Amor Endscreen.zip",
    "asset": "Amor.Endscreen.zip",
    "tag": "backgrounds",
@@ -389,6 +400,28 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Anime.zip",
    "date": 1791908483,
    "commit": "16c77ccd66fac0402db607f8078cf8bb758b286b"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Arc Warden Dota 2.zip",
+   "asset": "Arc.Warden.Dota.2.zip",
+   "tag": "backgrounds",
+   "size": 1626453,
+   "sha256": "92477b9f39b18fe2a9c9158c6caacdce62ff626be41c7fbea74f607b2f607269",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Arc.Warden.Dota.2.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Arc Wardenv2 Dota 2.zip",
+   "asset": "Arc.Wardenv2.Dota.2.zip",
+   "tag": "backgrounds",
+   "size": 482604,
+   "sha256": "09da159fcbac0bb98d336b3bfd734bc39742e0c4ebbfc754b9a98f045dd75c1e",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Arc.Wardenv2.Dota.2.zip"
   },
   {
    "category": "backgrounds",
@@ -480,6 +513,17 @@
   },
   {
    "category": "backgrounds",
+   "name": "Castle Dimitrescu In The Fog.zip",
+   "asset": "Castle.Dimitrescu.In.The.Fog.zip",
+   "tag": "backgrounds",
+   "size": 6814725,
+   "sha256": "fe2d7204e214915d85d6192ed265cd763b0205e29ee62831366f17a1db486f16",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Castle.Dimitrescu.In.The.Fog.zip"
+  },
+  {
+   "category": "backgrounds",
    "name": "Cat Under Rain.zip",
    "asset": "Cat.Under.Rain.zip",
    "tag": "backgrounds",
@@ -568,6 +612,17 @@
   },
   {
    "category": "backgrounds",
+   "name": "Dark Willow Dota 2.zip",
+   "asset": "Dark.Willow.Dota.2.zip",
+   "tag": "backgrounds",
+   "size": 1253058,
+   "sha256": "4d9fb18debde05b567c4454e6295c8dd2dba414dfeb532725e5c6f717c97e3df",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Dark.Willow.Dota.2.zip"
+  },
+  {
+   "category": "backgrounds",
    "name": "Dead Eyes.zip",
    "asset": "Dead.Eyes.zip",
    "tag": "backgrounds",
@@ -587,6 +642,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Depressed.SpongeBob.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Drow Ranger Arcana Dota 2.zip",
+   "asset": "Drow.Ranger.Arcana.Dota.2.zip",
+   "tag": "backgrounds",
+   "size": 1006819,
+   "sha256": "f004cae25802d8e095e137d34e9385466a122ecbe37b9676a5207285ed818a53",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Drow.Ranger.Arcana.Dota.2.zip"
   },
   {
    "category": "backgrounds",
@@ -983,6 +1049,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Light.Yagami.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Lily Grace Sunlit.zip",
+   "asset": "Lily.Grace.Sunlit.zip",
+   "tag": "backgrounds",
+   "size": 19482190,
+   "sha256": "75f24243ba6dfb7f88ad75f3889a10c83a61c1a6dfa1e8f39c1ad6d05647f14c",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Lily.Grace.Sunlit.zip"
   },
   {
    "category": "backgrounds",
@@ -5537,6 +5614,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Doom.Sematary.Ult.zip",
    "date": 1793525913,
    "commit": "05440c1b1ac24506ded741d5911d749a73ad7819"
+  },
+  {
+   "category": "hero-sounds",
+   "name": "Earthshaker Ukrainian Voice.zip",
+   "asset": "Earthshaker.Ukrainian.Voice.zip",
+   "tag": "hero-sounds",
+   "size": 15470951,
+   "sha256": "894c3e06f75d97cbe25d246bfd51dbe3f12555c1ee1b4c9a85d013c425772fd2",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Earthshaker.Ukrainian.Voice.zip"
   },
   {
    "category": "hero-sounds",
@@ -13449,6 +13537,17 @@
   },
   {
    "category": "heroes",
+   "name": "Stariy Bog Io.zip",
+   "asset": "Stariy.Bog.Io.zip",
+   "tag": "heroes-1",
+   "size": 25253821,
+   "sha256": "df80ee40ae56aaff7f90b30a01cacf9d0c50ffda21cdb085fb702595203ad775",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Stariy.Bog.Io.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Steel King.zip",
    "asset": "Steel.King.zip",
    "tag": "heroes-2",
@@ -17816,6 +17915,17 @@
   },
   {
    "category": "item-icons",
+   "name": "Armlet Fix.zip",
+   "asset": "Armlet.Fix.zip",
+   "tag": "item-icons",
+   "size": 13662,
+   "sha256": "61898511d02290c8068520a5961af533f06d8c47952df81ca2a8eb41c4b28e72",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/item-icons/Armlet.Fix.zip"
+  },
+  {
+   "category": "item-icons",
    "name": "Beer Bottle.zip",
    "asset": "Beer.Bottle.zip",
    "tag": "item-icons",
@@ -18231,6 +18341,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/mega-kill/Nedotrax.Mega-Kill.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "mega-kill",
+   "name": "Onda Andar.zip",
+   "asset": "Onda.Andar.zip",
+   "tag": "mega-kill",
+   "size": 13796473,
+   "sha256": "cb78c87349741efec46ed53943e5732ea391acb5fd079f09a49d109d5ad82dda",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/mega-kill/Onda.Andar.zip"
   },
   {
    "category": "mega-kill",
@@ -18740,6 +18861,17 @@
   },
   {
    "category": "other",
+   "name": "Better Damage Numbers.zip",
+   "asset": "Better.Damage.Numbers.zip",
+   "tag": "other",
+   "size": 2471,
+   "sha256": "bdab742801d430589a7f65af58ebec09e5d56ffe0ae8e12533afa384615a6c3f",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/other/Better.Damage.Numbers.zip"
+  },
+  {
+   "category": "other",
    "name": "Black Click.zip",
    "asset": "Black.Click.zip",
    "tag": "other",
@@ -18979,6 +19111,17 @@
    "date": 1794953058,
    "commit": "e13d07a0ffa7608859dd3df3b9c06a78e8440e0f",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/other/Simple.Tower.Re-Aggro.Radius.zip"
+  },
+  {
+   "category": "other",
+   "name": "Source 1 Huge Damage Display.zip",
+   "asset": "Source.1.Huge.Damage.Display.zip",
+   "tag": "other",
+   "size": 34168,
+   "sha256": "a2256a3b6320307bfede97a15cfd52d3cdd009939e4a88feca84e7c0f88461d7",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/other/Source.1.Huge.Damage.Display.zip"
   },
   {
    "category": "other",
@@ -19249,11 +19392,11 @@
    "name": "Grey Minimap.zip",
    "asset": "Grey.Minimap.zip",
    "tag": "parts",
-   "size": 1486477,
-   "sha256": "ca678ca70ffa0eaca355a7f26e7fcdc34ae054f75d1dc708d34d5b7dc6403ac5",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/Grey.Minimap.zip",
-   "date": 1790825298,
-   "commit": "3478dcb2ccb61f10aaa00ce7a7ec7a902306a0d5"
+   "size": 322187,
+   "sha256": "de33e4685b1d4e2182ce0df17c15035cf9916b0b864736088b11e38f4f7dcb94",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/Grey.Minimap.zip"
   },
   {
    "category": "parts",
@@ -19524,11 +19667,11 @@
    "name": "Purple Minimap.zip",
    "asset": "Purple.Minimap.zip",
    "tag": "parts",
-   "size": 527844,
-   "sha256": "5218ae6d474b24c0601ac351faa9d31af69590f4feb057d1c2e846a58f9836d5",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/Purple.Minimap.zip",
-   "date": 1792011470,
-   "commit": "a43d0b4a646c936a946b114cf735db6ea0bca83d"
+   "size": 382133,
+   "sha256": "16f70f8a39352e7d61f310dd3b35eca15111c3aad5d8d84c7995d15c4ffd26de",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/Purple.Minimap.zip"
   },
   {
    "category": "parts",
@@ -19568,11 +19711,11 @@
    "name": "Remove Innate Icon.zip",
    "asset": "Remove.Innate.Icon.zip",
    "tag": "parts",
-   "size": 11299,
-   "sha256": "ef31e7a1402662cfcd39b2393637716e97cd5e4cf3352850d179cff9ba5f34ce",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/Remove.Innate.Icon.zip",
-   "date": 1792412054,
-   "commit": "506a00fec3b0ed9867c85b91783db85bb8237447"
+   "size": 22274,
+   "sha256": "d065d97cb2f6bd5c8b8d127067d8f87da8885b561f01ed7db68a16abd2f39d39",
+   "date": 1795162294,
+   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/parts/Remove.Innate.Icon.zip"
   },
   {
    "category": "parts",
