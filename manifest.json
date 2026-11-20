@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-19T10:58:03+00:00",
+ "generated": "2026-11-20T07:59:23+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 119
+   "count": 123
   },
   {
    "tag": "couriers",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 466
+   "count": 475
   },
   {
    "tag": "heroes-2",
@@ -788,6 +788,17 @@
   },
   {
    "category": "backgrounds",
+   "name": "Invoker.zip",
+   "asset": "Invoker.zip",
+   "tag": "backgrounds",
+   "size": 472865,
+   "sha256": "675e86aea78d446dc05a59f28b567484e6f27bdcf789fcd7117d9f53fdfd79ad",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Invoker.zip"
+  },
+  {
+   "category": "backgrounds",
    "name": "Japanese Background.zip",
    "asset": "Japanese.Background.zip",
    "tag": "backgrounds",
@@ -1096,6 +1107,17 @@
   },
   {
    "category": "backgrounds",
+   "name": "Morphling.zip",
+   "asset": "Morphling.zip",
+   "tag": "backgrounds",
+   "size": 598226,
+   "sha256": "b0cc0e00e46e7125343b2f22b9a3fc29d6ce1f917de4c49613f7b5ae9520d81e",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Morphling.zip"
+  },
+  {
+   "category": "backgrounds",
    "name": "Nemestice.zip",
    "asset": "Nemestice.zip",
    "tag": "backgrounds",
@@ -1148,6 +1170,17 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Old.Style.Menu.zip",
    "date": 1792583758,
    "commit": "b6bedf2273599898a5b184f671912e39d71d992a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Phantom Lancer.zip",
+   "asset": "Phantom.Lancer.zip",
+   "tag": "backgrounds",
+   "size": 781769,
+   "sha256": "4cba8d61a3d2fadccd6da83f0dc90282afd51d817854d4669f63590995f0c9f4",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Phantom.Lancer.zip"
   },
   {
    "category": "backgrounds",
@@ -1368,6 +1401,17 @@
    "date": 1795046713,
    "commit": "9252391ca24d9974bab94fe5b10ad82204d53ddd",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Sewerslvt.zip"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Shadow Fiend Arcana.zip",
+   "asset": "Shadow.Fiend.Arcana.zip",
+   "tag": "backgrounds",
+   "size": 445604,
+   "sha256": "746f5ccbf3b0afc84f5f096c9b17c34aa1a642431e188b9af739683a5b6242a6",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Shadow.Fiend.Arcana.zip"
   },
   {
    "category": "backgrounds",
@@ -3431,22 +3475,22 @@
    "name": "Shadow Fiend Arcana Fixv1.zip",
    "asset": "Shadow.Fiend.Arcana.Fixv1.zip",
    "tag": "hero-icons",
-   "size": 17553,
-   "sha256": "4b0589a48185945ee33a77c4140bbe149e83beb51e717dba5fe91d656bea4d2e",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-icons/Shadow.Fiend.Arcana.Fixv1.zip",
-   "date": 1792235759,
-   "commit": "d31458ad4e3eec5e05880f9de01b871de973420e"
+   "size": 17554,
+   "sha256": "e00d24faf3d34fa1be5835631c6ba6ecbd9ed7111dc5e55d1a48ab6fdb1e01b5",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-icons/Shadow.Fiend.Arcana.Fixv1.zip"
   },
   {
    "category": "hero-icons",
    "name": "Shadow Fiend Arcana Fixv2.zip",
    "asset": "Shadow.Fiend.Arcana.Fixv2.zip",
    "tag": "hero-icons",
-   "size": 16335,
-   "sha256": "d016fa49b823729267889f529ba65ee5f3503444b204f04807e971e4177ca638",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-icons/Shadow.Fiend.Arcana.Fixv2.zip",
-   "date": 1792275718,
-   "commit": "d06194602246139701f48f3b345468ea89ebff92"
+   "size": 17647,
+   "sha256": "23efe029e94e7c122a536e477f0f32dd0822a15378e30abf930add4a31683f08",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-icons/Shadow.Fiend.Arcana.Fixv2.zip"
   },
   {
    "category": "hero-icons",
@@ -15239,6 +15283,105 @@
    "date": 1794779021,
    "commit": "61bf51d40054aa2649bcf08715ee399e0615ec11",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Keeper.of.the.Light.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Kez.zip",
+   "asset": "Warcraft.3.Kez.zip",
+   "tag": "heroes-1",
+   "size": 1212650,
+   "sha256": "f91d7358519851b131aae52d478788cb6f4804dabcbe930777f26d33ff090df5",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Kez.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Kunkka.zip",
+   "asset": "Warcraft.3.Kunkka.zip",
+   "tag": "heroes-1",
+   "size": 671685,
+   "sha256": "ca05b9a217989768085ac9086380f849722733c3743e1e98294406cfbef31aaf",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Kunkka.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Largo.zip",
+   "asset": "Warcraft.3.Largo.zip",
+   "tag": "heroes-1",
+   "size": 950306,
+   "sha256": "ae42cb468a5e6bd2764723c0e6c38e8018e5a00106a9d7ae487d6211e9db798e",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Largo.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Legion Commander.zip",
+   "asset": "Warcraft.3.Legion.Commander.zip",
+   "tag": "heroes-1",
+   "size": 1498185,
+   "sha256": "2402926469ffeed40a3ae80362d3333a766f692895dde8a0434853cd4e2db856",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Legion.Commander.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Leshrac.zip",
+   "asset": "Warcraft.3.Leshrac.zip",
+   "tag": "heroes-1",
+   "size": 3152688,
+   "sha256": "3bce97ad5f390bc45509fc4177b42c067bb4d48539f18d3dbe03e668804c7564",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Leshrac.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Lich.zip",
+   "asset": "Warcraft.3.Lich.zip",
+   "tag": "heroes-1",
+   "size": 3222087,
+   "sha256": "a87a18b11e477af40cf2c6e6f43cd3f0e8ee234e5808deef10952acaaf3fa1b7",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Lich.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Lifestealer.zip",
+   "asset": "Warcraft.3.Lifestealer.zip",
+   "tag": "heroes-1",
+   "size": 1160791,
+   "sha256": "41367aec20d663ad38fd9895642acc5697ea728f13d1aa8d0b9106501b32f129",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Lifestealer.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Lina.zip",
+   "asset": "Warcraft.3.Lina.zip",
+   "tag": "heroes-1",
+   "size": 470276,
+   "sha256": "e0d209b35d3bdd93dc65b07a65d882c6bff4f00413c3aeb9e8b20fe521013793",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Lina.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Lion.zip",
+   "asset": "Warcraft.3.Lion.zip",
+   "tag": "heroes-1",
+   "size": 341109,
+   "sha256": "68c44be181b6b5108ac056b61ba0e7cd8311eaaaadd9c374e30e7009f15fb2b9",
+   "date": 1795161448,
+   "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Lion.zip"
   },
   {
    "category": "heroes",
