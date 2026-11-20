@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-20T08:13:56+00:00",
+ "generated": "2026-11-20T08:31:48+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 476
+   "count": 477
   },
   {
    "tag": "heroes-2",
@@ -15481,6 +15481,16 @@
    "date": 1795161448,
    "commit": "5f5e4c3f13d95db3163451bd22d0cfdc2fe90c70",
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Lion.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Warcraft 3 Lone Druid.zip",
+   "asset": "Warcraft.3.Lone.Druid.zip",
+   "tag": "heroes-1",
+   "size": 6499549,
+   "sha256": "050989944d15a707d7f1c7aa1c11f40ab1d7a9d07ec1c90865b08a2d7193783f",
+   "date": 1795163501,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Warcraft.3.Lone.Druid.zip"
   },
   {
    "category": "heroes",
