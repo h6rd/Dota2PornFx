@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-20T09:46:53+00:00",
+ "generated": "2026-11-21T01:48:55+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -17938,10 +17938,9 @@
    "name": "Armlet Fix.zip",
    "asset": "Armlet.Fix.zip",
    "tag": "item-icons",
-   "size": 13662,
-   "sha256": "61898511d02290c8068520a5961af533f06d8c47952df81ca2a8eb41c4b28e72",
-   "date": 1795162294,
-   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "size": 214581,
+   "sha256": "c0076c9e9270ac88b4e0c0b6426eeb417ae15f36782b794d5ed48e5cba877fda",
+   "date": 1795225728,
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/item-icons/Armlet.Fix.zip"
   },
   {
