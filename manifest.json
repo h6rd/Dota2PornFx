@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-21T01:48:55+00:00",
+ "generated": "2026-11-21T02:01:46+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -10,7 +10,7 @@
   {
    "tag": "announcers",
    "category": "announcers",
-   "count": 7
+   "count": 8
   },
   {
    "tag": "backgrounds",
@@ -60,12 +60,12 @@
   {
    "tag": "hero-sounds",
    "category": "hero-sounds",
-   "count": 70
+   "count": 71
   },
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 478
+   "count": 479
   },
   {
    "tag": "heroes-2",
@@ -95,7 +95,7 @@
   {
    "tag": "item-icons",
    "category": "item-icons",
-   "count": 12
+   "count": 13
   },
   {
    "tag": "mega-kill",
@@ -323,6 +323,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/announcers/Tusk.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "announcers",
+   "name": "Viperr Announcer.zip",
+   "asset": "Viperr.Announcer.zip",
+   "tag": "announcers",
+   "size": 32511267,
+   "sha256": "bf494c37c271a7d1948e4427303958e6120bb2eeb6bf3a76f93f217b616658dd",
+   "date": 1795226491,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/announcers/Viperr.Announcer.zip"
   },
   {
    "category": "announcers",
@@ -5867,6 +5877,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Pangolier.Barkfart.zip",
    "date": 1791366544,
    "commit": "bebbbb7736f4c52361ad0f49c2bb1d2662425123"
+  },
+  {
+   "category": "hero-sounds",
+   "name": "Pudge Hook.zip",
+   "asset": "Pudge.Hook.zip",
+   "tag": "hero-sounds",
+   "size": 526761,
+   "sha256": "198e59ebf33589250e2c1ad5e867752ae00f9f57629e8c7057c6ea56b0daf5bb",
+   "date": 1795226491,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Pudge.Hook.zip"
   },
   {
    "category": "hero-sounds",
@@ -13624,6 +13644,16 @@
   },
   {
    "category": "heroes",
+   "name": "Sven Berserk.zip",
+   "asset": "Sven.Berserk.zip",
+   "tag": "heroes-1",
+   "size": 9534909,
+   "sha256": "aa0d7f2164623415018e2cf2380e47b3a7873f05ea87a608a842117d4b27ee6e",
+   "date": 1795226491,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Sven.Berserk.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Sven Blue Angel.zip",
    "asset": "Sven.Blue.Angel.zip",
    "tag": "heroes-2",
@@ -17975,6 +18005,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/item-icons/Meme.Media.Items.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "item-icons",
+   "name": "Nyash Items Revived.zip",
+   "asset": "Nyash.Items.Revived.zip",
+   "tag": "item-icons",
+   "size": 1407699,
+   "sha256": "11796cfc990b8abc41683e6afca89e460e4ad12f92b5766261e7601107244b9a",
+   "date": 1795226491,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/item-icons/Nyash.Items.Revived.zip"
   },
   {
    "category": "item-icons",
