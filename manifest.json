@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-21T10:28:34+00:00",
+ "generated": "2026-11-21T15:26:56+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 130
+   "count": 131
   },
   {
    "tag": "couriers",
@@ -60,12 +60,12 @@
   {
    "tag": "hero-sounds",
    "category": "hero-sounds",
-   "count": 71
+   "count": 73
   },
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 479
+   "count": 480
   },
   {
    "tag": "heroes-2",
@@ -329,9 +329,9 @@
    "name": "Viperr Announcer.zip",
    "asset": "Viperr.Announcer.zip",
    "tag": "announcers",
-   "size": 32511267,
-   "sha256": "bf494c37c271a7d1948e4427303958e6120bb2eeb6bf3a76f93f217b616658dd",
-   "date": 1795226491,
+   "size": 32559049,
+   "sha256": "6ef431ab43cc1a4f69bc9aec7e3aae59f5ccbe0a141fe7b3dba4da86ff50d9a5",
+   "date": 1795274794,
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/announcers/Viperr.Announcer.zip"
   },
   {
@@ -1257,6 +1257,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Old.Style.Menu.zip",
    "date": 1792583758,
    "commit": "b6bedf2273599898a5b184f671912e39d71d992a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Origami Tobiichi World End.zip",
+   "asset": "Origami.Tobiichi.World.End.zip",
+   "tag": "backgrounds",
+   "size": 37199371,
+   "sha256": "ccbb2f171ce171e228294407a97d1947a34dec2459aa400d1731a8a82dee9351",
+   "date": 1795274794,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Origami.Tobiichi.World.End.zip"
   },
   {
    "category": "backgrounds",
@@ -5506,6 +5516,16 @@
   },
   {
    "category": "hero-sounds",
+   "name": "Arc Warden Ultimatetaunt 2016.zip",
+   "asset": "Arc.Warden.Ultimatetaunt.2016.zip",
+   "tag": "hero-sounds",
+   "size": 670377,
+   "sha256": "0df79bab9611cb2ce81c39d933ee615a4f64dc6f113f96d74ccb5800315f660d",
+   "date": 1795274794,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Arc.Warden.Ultimatetaunt.2016.zip"
+  },
+  {
+   "category": "hero-sounds",
    "name": "Arc Warden Xvii.zip",
    "asset": "Arc.Warden.Xvii.zip",
    "tag": "hero-sounds",
@@ -5514,6 +5534,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Arc.Warden.Xvii.zip",
    "date": 1792151800,
    "commit": "4ee1cd716642148f38e0c2144e781659441e3ed2"
+  },
+  {
+   "category": "hero-sounds",
+   "name": "Axe Call H.zip",
+   "asset": "Axe.Call.H.zip",
+   "tag": "hero-sounds",
+   "size": 1581032,
+   "sha256": "0eee23b62cd8710464be540808b90a1ae77907e3066ec692a314e0ed6dfc8c41",
+   "date": 1795274794,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Axe.Call.H.zip"
   },
   {
    "category": "hero-sounds",
@@ -8769,6 +8799,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Faceless.Void.Rita.zip",
    "date": 1771195327,
    "commit": "dfc89729ef2997081b6a22edebc600099a570d20"
+  },
+  {
+   "category": "heroes",
+   "name": "Fire legacy green Terrorblade.zip",
+   "asset": "Fire.legacy.green.Terrorblade.zip",
+   "tag": "heroes-1",
+   "size": 1085201,
+   "sha256": "1801349baa01c08e37c024ae45c2af2e47a2bd20798fb19d46231b388b4157ce",
+   "date": 1795274794,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Fire.legacy.green.Terrorblade.zip"
   },
   {
    "category": "heroes",
