@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-21T15:26:56+00:00",
+ "generated": "2026-11-22T07:23:37+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 480
+   "count": 482
   },
   {
    "tag": "heroes-2",
@@ -95,7 +95,7 @@
   {
    "tag": "item-icons",
    "category": "item-icons",
-   "count": 13
+   "count": 14
   },
   {
    "tag": "mega-kill",
@@ -165,7 +165,7 @@
   {
    "tag": "sounds",
    "category": "sounds",
-   "count": 34
+   "count": 35
   },
   {
    "tag": "terrains",
@@ -1011,10 +1011,9 @@
    "asset": "Last.Match.Vidget.zip",
    "tag": "backgrounds",
    "size": 7148,
-   "sha256": "b40661695848800c04b6b9b830048dc4589aabbd0caa99232c20d0ce6b793804",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Last.Match.Vidget.zip",
-   "date": 1794177576,
-   "commit": "91501e497bc348aa699dedc3a633cc50d0295db4"
+   "sha256": "6752ec037421d848e0f643bd33d5d6e97bae62397cc677668d26fb5c2c9ff87a",
+   "date": 1795332202,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Last.Match.Vidget.zip"
   },
   {
    "category": "backgrounds",
@@ -1330,9 +1329,9 @@
    "tag": "backgrounds",
    "size": 7205,
    "sha256": "297dc5f8f6db047c5e1ac0743d99c8c881ee8d22837d11e8d7710b2fd7cc8d1e",
-   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Qwop.Arcana.zip",
    "date": 1794347188,
-   "commit": "e7fb5a6367295602ea901c681230b66a875d4da5"
+   "commit": "e7fb5a6367295602ea901c681230b66a875d4da5",
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Qwop.Arcana.zip"
   },
   {
    "category": "backgrounds",
@@ -11550,6 +11549,26 @@
   },
   {
    "category": "heroes",
+   "name": "Necrophos Scream Russian voice.zip",
+   "asset": "Necrophos.Scream.Russian.voice.zip",
+   "tag": "heroes-1",
+   "size": 17887472,
+   "sha256": "f306b5b44a566f531ccff82c0332699b07a2a0e804be89b95aea74ec11ef3381",
+   "date": 1795332201,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Necrophos.Scream.Russian.voice.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Necrophos Scream.zip",
+   "asset": "Necrophos.Scream.zip",
+   "tag": "heroes-1",
+   "size": 10054668,
+   "sha256": "e5dd771d1816221a2b2a70b8d02e68efacb340273509ada97fcff80e20cff964",
+   "date": 1795332201,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Necrophos.Scream.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Necrophos Serpent Spite.zip",
    "asset": "Necrophos.Serpent.Spite.zip",
    "tag": "heroes-2",
@@ -18101,6 +18120,16 @@
   },
   {
    "category": "item-icons",
+   "name": "Specialists Array Model.zip",
+   "asset": "Specialists.Array.Model.zip",
+   "tag": "item-icons",
+   "size": 7367,
+   "sha256": "a2ec91db1f10bda2f309c062f5831e79127f4db7d95f89a8df53bf0741bf4d0b",
+   "date": 1795332201,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/item-icons/Specialists.Array.Model.zip"
+  },
+  {
+   "category": "item-icons",
    "name": "Whatsapp Tranquill.zip",
    "asset": "Whatsapp.Tranquill.zip",
    "tag": "item-icons",
@@ -21596,6 +21625,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/USSR.and.Germany.Horn.zip",
    "date": 1780653646,
    "commit": "5a62b35e27897660a515543f354dc5667e62ae5c"
+  },
+  {
+   "category": "sounds",
+   "name": "Vasilisa Dark Carnival.zip",
+   "asset": "Vasilisa.Dark.Carnival.zip",
+   "tag": "sounds",
+   "size": 269850,
+   "sha256": "6d49080b320bc47e9fdd01d26b1dba7895623a10ad5838fe8cd75b8a2d28ec56",
+   "date": 1795332201,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Vasilisa.Dark.Carnival.zip"
   },
   {
    "category": "sounds",
