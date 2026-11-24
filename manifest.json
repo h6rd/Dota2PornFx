@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-22T07:23:37+00:00",
+ "generated": "2026-11-24T06:21:07+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -15,7 +15,7 @@
   {
    "tag": "backgrounds",
    "category": "backgrounds",
-   "count": 131
+   "count": 134
   },
   {
    "tag": "couriers",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 482
+   "count": 485
   },
   {
    "tag": "heroes-2",
@@ -85,7 +85,7 @@
   {
    "tag": "huds",
    "category": "huds",
-   "count": 25
+   "count": 27
   },
   {
    "tag": "item-effects",
@@ -1204,6 +1204,16 @@
   },
   {
    "category": "backgrounds",
+   "name": "Nailoong.zip",
+   "asset": "Nailoong.zip",
+   "tag": "backgrounds",
+   "size": 205788,
+   "sha256": "f1edf55425ef3c7cff1a226c6a61c58d829dbe17130a36395b2d750a5dadb09d",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Nailoong.zip"
+  },
+  {
+   "category": "backgrounds",
    "name": "Nemestice.zip",
    "asset": "Nemestice.zip",
    "tag": "backgrounds",
@@ -1288,6 +1298,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Pine.Forest.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Pink Little Angel Moe Style.zip",
+   "asset": "Pink.Little.Angel.Moe.Style.zip",
+   "tag": "backgrounds",
+   "size": 4534969,
+   "sha256": "5526d387daafa8bc926952fb855f595d8e1e7c10094ee5a80671880e02079ba7",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Pink.Little.Angel.Moe.Style.zip"
   },
   {
    "category": "backgrounds",
@@ -1739,6 +1759,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Winter.Solitude.zip",
    "date": 1794152898,
    "commit": "4293b801d30542157c78c4566f586b6ddbe3600a"
+  },
+  {
+   "category": "backgrounds",
+   "name": "Woman Hz Kak Zovut.zip",
+   "asset": "Woman.Hz.Kak.Zovut.zip",
+   "tag": "backgrounds",
+   "size": 196382,
+   "sha256": "ef5441b5ba7b184909e24e9be8aea5005c3350496835b6a9de97e1fcdb2f5bcf",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/backgrounds/Woman.Hz.Kak.Zovut.zip"
   },
   {
    "category": "backgrounds",
@@ -6378,6 +6408,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Ancient.Apparition.Yoshino.zip",
    "date": 1771195327,
    "commit": "dfc89729ef2997081b6a22edebc600099a570d20"
+  },
+  {
+   "category": "heroes",
+   "name": "Anti Mage Custom Wei.zip",
+   "asset": "Anti.Mage.Custom.Wei.zip",
+   "tag": "heroes-1",
+   "size": 3132624,
+   "sha256": "962b53868e97fbcfbd62bc8c9aa3a01db4e398525120b6da46b53231bdd8b0a7",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Anti.Mage.Custom.Wei.zip"
   },
   {
    "category": "heroes",
@@ -12427,6 +12467,16 @@
   },
   {
    "category": "heroes",
+   "name": "Pudge Demid.zip",
+   "asset": "Pudge.Demid.zip",
+   "tag": "heroes-1",
+   "size": 2601617,
+   "sha256": "38e2df67d16a565154ddc17051bdbc645041860af01c14561110cfdb72b2bcab",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Pudge.Demid.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Pudge Dendi Arcana.zip",
    "asset": "Pudge.Dendi.Arcana.zip",
    "tag": "heroes-2",
@@ -13106,6 +13156,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Shadow.Fiend.Lightning.Soul.zip",
    "date": 1789395409,
    "commit": "8059c409dc3ac05863358c0aa6b723e142971ad5"
+  },
+  {
+   "category": "heroes",
+   "name": "Shadow Fiend Neiroslop.zip",
+   "asset": "Shadow.Fiend.Neiroslop.zip",
+   "tag": "heroes-1",
+   "size": 3756415,
+   "sha256": "176a00275fe63ca34861f0d79c5eab107f2de71d28e69d05e2524659c87512ae",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Shadow.Fiend.Neiroslop.zip"
   },
   {
    "category": "heroes",
@@ -16304,6 +16364,26 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/huds/One.Piece.Hud.zip",
    "date": 1791253117,
    "commit": "949bcf40cd038aef70a7e584c0670c821dcb24a5"
+  },
+  {
+   "category": "huds",
+   "name": "Origami Tobiichi Hud.zip",
+   "asset": "Origami.Tobiichi.Hud.zip",
+   "tag": "huds",
+   "size": 9702095,
+   "sha256": "c1d4e65c085cbb7ca6cd8d3fa26e452a4199ef9ecdcda063ecfb65638d528b72",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/huds/Origami.Tobiichi.Hud.zip"
+  },
+  {
+   "category": "huds",
+   "name": "Pink Hud.zip",
+   "asset": "Pink.Hud.zip",
+   "tag": "huds",
+   "size": 2894288,
+   "sha256": "e70604db2663e8be06732a5a5649c169392e538f7faf11c2ce69e4526f90a7cc",
+   "date": 1795501252,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/huds/Pink.Hud.zip"
   },
   {
    "category": "huds",
