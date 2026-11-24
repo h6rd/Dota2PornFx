@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-24T06:21:07+00:00",
+ "generated": "2026-11-24T06:24:54+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -5689,10 +5689,9 @@
    "name": "Earthshaker Ukrainian Voice.zip",
    "asset": "Earthshaker.Ukrainian.Voice.zip",
    "tag": "hero-sounds",
-   "size": 15470951,
-   "sha256": "894c3e06f75d97cbe25d246bfd51dbe3f12555c1ee1b4c9a85d013c425772fd2",
-   "date": 1795162294,
-   "commit": "e385522091c89de83aff557764e5f5868900ba3c",
+   "size": 4978902,
+   "sha256": "2b5e78c1ce9e7d183d0789c2ff2d2e367ff4561bdda63c28543ff280b510357b",
+   "date": 1795501487,
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Earthshaker.Ukrainian.Voice.zip"
   },
   {
