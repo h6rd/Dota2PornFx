@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-24T06:24:54+00:00",
+ "generated": "2026-11-25T07:57:26+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -65,7 +65,7 @@
   {
    "tag": "heroes-1",
    "category": "heroes",
-   "count": 485
+   "count": 495
   },
   {
    "tag": "heroes-2",
@@ -15670,6 +15670,106 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Warlock.Puppet.Bear.zip",
    "date": 1756539017,
    "commit": "a4d1dcca84f1ff388cc455fb80a99ea9eb917689"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Luna.zip",
+   "asset": "WC3---Luna.zip",
+   "tag": "heroes-1",
+   "size": 700223,
+   "sha256": "f52cc3fe5449c468d9b88c6edfc31cef819b28a5a4d8565f6579c682be532f4e",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Luna.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Lycan.zip",
+   "asset": "WC3---Lycan.zip",
+   "tag": "heroes-1",
+   "size": 5291432,
+   "sha256": "1c362feb1c7a2a8abea953f91a5ae4673153d89f914e0c056920e9d32dd2c789",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Lycan.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Magnus.zip",
+   "asset": "WC3---Magnus.zip",
+   "tag": "heroes-1",
+   "size": 1056348,
+   "sha256": "91d6908371fe78be6a468f6bb608b1daa8425b397257c81218ea4b5746450619",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Magnus.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Marci.zip",
+   "asset": "WC3---Marci.zip",
+   "tag": "heroes-1",
+   "size": 6521375,
+   "sha256": "ba9c46d60af5035bedabb5d730bf5a9b8950b8458b3772a2c43ed889379f87c7",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Marci.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Mars.zip",
+   "asset": "WC3---Mars.zip",
+   "tag": "heroes-1",
+   "size": 29728721,
+   "sha256": "c1f29fc4dc849a1be8fdd55b0dce08d046491ee5d810281db82ccd5fc8ea9500",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Mars.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Medusa.zip",
+   "asset": "WC3---Medusa.zip",
+   "tag": "heroes-1",
+   "size": 563108,
+   "sha256": "9d0ec9a5bf6d15a7049d4a3c468a02d592aee0be1c5eebda294905830c92df7d",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Medusa.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Meepo.zip",
+   "asset": "WC3---Meepo.zip",
+   "tag": "heroes-1",
+   "size": 674414,
+   "sha256": "cdfe443ae8530d4f704bdb7f70990890c10ed832a377479bd938febcdb5c8173",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Meepo.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Mirana.zip",
+   "asset": "WC3---Mirana.zip",
+   "tag": "heroes-1",
+   "size": 407837,
+   "sha256": "2fc3afe1a3598fe42d73a5ea17153c834b497ca570f7aa16bf57b4e404d1e18f",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Mirana.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Monkey-King.zip",
+   "asset": "WC3---Monkey-King.zip",
+   "tag": "heroes-1",
+   "size": 67417126,
+   "sha256": "e6548ac15559c2ad712045a2023b86bf79ccd83116bd8634ac09cb672682cca2",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Monkey-King.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "WC3---Morphling.zip",
+   "asset": "WC3---Morphling.zip",
+   "tag": "heroes-1",
+   "size": 4992784,
+   "sha256": "a019f4267a5a50837731dd97017a7d951523cd673f23e59003c1a85b89294a95",
+   "date": 1795593424,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/WC3---Morphling.zip"
   },
   {
    "category": "heroes",
