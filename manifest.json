@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-25T08:06:38+00:00",
+ "generated": "2026-11-25T08:26:57+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -55,7 +55,7 @@
   {
    "tag": "hero-items",
    "category": "hero-items",
-   "count": 160
+   "count": 161
   },
   {
    "tag": "hero-sounds",
@@ -70,7 +70,7 @@
   {
    "tag": "heroes-2",
    "category": "heroes",
-   "count": 459
+   "count": 462
   },
   {
    "tag": "herofx",
@@ -85,7 +85,7 @@
   {
    "tag": "huds",
    "category": "huds",
-   "count": 27
+   "count": 28
   },
   {
    "tag": "item-effects",
@@ -105,7 +105,7 @@
   {
    "tag": "music",
    "category": "music",
-   "count": 23
+   "count": 24
   },
   {
    "tag": "neutral-creeps",
@@ -5443,6 +5443,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-items/Windranger.Peregrine.Flight.zip",
    "date": 1787135218,
    "commit": "a2139cb2d866d03f81ac35a8c734895187f28213"
+  },
+  {
+   "category": "hero-items",
+   "name": "Witch Doctor Female Head.zip",
+   "asset": "Witch.Doctor.Female.Head.zip",
+   "tag": "hero-items",
+   "size": 8174957,
+   "sha256": "b1a77e82f89e2ad038b224b35b60ebfe1aae35916d7e91cacdb7306244f88457",
+   "date": 1795595197,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-items/Witch.Doctor.Female.Head.zip"
   },
   {
    "category": "hero-items",
@@ -11533,6 +11543,16 @@
   },
   {
    "category": "heroes",
+   "name": "Natures Prophet Furion.zip",
+   "asset": "Natures.Prophet.Furion.zip",
+   "tag": "heroes-2",
+   "size": 2428587,
+   "sha256": "e41938695c10c6c53b71e6a34e7d056b1f000d3aa33a4f43efd4521885f19c51",
+   "date": 1795595197,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Natures.Prophet.Furion.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Natures Prophet Immortal Allfather.zip",
    "asset": "Natures.Prophet.Immortal.Allfather.zip",
    "tag": "heroes-2",
@@ -12542,6 +12562,16 @@
   },
   {
    "category": "heroes",
+   "name": "Pudge Midas Slapper.zip",
+   "asset": "Pudge.Midas.Slapper.zip",
+   "tag": "heroes-2",
+   "size": 17060164,
+   "sha256": "3ae575ad4d5338757de9553dd43154b953004479ed6d8830c7f397d69ac6f8bd",
+   "date": 1795595197,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Pudge.Midas.Slapper.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Pudge Mindless Slaughter.zip",
    "asset": "Pudge.Mindless.Slaughter.zip",
    "tag": "heroes-2",
@@ -12847,6 +12877,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Rictus.Ripper.Terrorblade.zip",
    "date": 1791372988,
    "commit": "7294abad443699f839b3b42ddf60a4b93a1997b0"
+  },
+  {
+   "category": "heroes",
+   "name": "Riki Ghostface.zip",
+   "asset": "Riki.Ghostface.zip",
+   "tag": "heroes-2",
+   "size": 6667371,
+   "sha256": "f96ca75c15e5c4008178859a53dce068bc1ebed3578059ea2d0fa90028a491c7",
+   "date": 1795595197,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Riki.Ghostface.zip"
   },
   {
    "category": "heroes",
@@ -17031,6 +17071,16 @@
   },
   {
    "category": "huds",
+   "name": "Ingame Hud Purple And Black.zip",
+   "asset": "Ingame.Hud.Purple.And.Black.zip",
+   "tag": "huds",
+   "size": 3236914,
+   "sha256": "fe157856ebe7b262381694e66becabff60f847fe956f4b35c1fb9041855d23df",
+   "date": 1795595197,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/huds/Ingame.Hud.Purple.And.Black.zip"
+  },
+  {
+   "category": "huds",
    "name": "Kawaii Hud.zip",
    "asset": "Kawaii.Hud.zip",
    "tag": "huds",
@@ -19454,6 +19504,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/mega-kill/Waitureally.Mega-Kill.zip",
    "date": 1793424595,
    "commit": "271d3c035dc5684f9ec6a8071e4a812b08e2ba16"
+  },
+  {
+   "category": "music",
+   "name": "Bee Swarm Simulator Music.zip",
+   "asset": "Bee.Swarm.Simulator.Music.zip",
+   "tag": "music",
+   "size": 20065468,
+   "sha256": "c28b01784aa3af6a5ee3b360e2ce06bbdbf7888316f65eefe519ce7298e8fb89",
+   "date": 1795595197,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/music/Bee.Swarm.Simulator.Music.zip"
   },
   {
    "category": "music",
