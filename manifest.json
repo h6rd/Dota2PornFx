@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-25T08:26:57+00:00",
+ "generated": "2026-11-26T11:21:32+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -55,7 +55,7 @@
   {
    "tag": "hero-items",
    "category": "hero-items",
-   "count": 161
+   "count": 162
   },
   {
    "tag": "hero-sounds",
@@ -70,7 +70,7 @@
   {
    "tag": "heroes-2",
    "category": "heroes",
-   "count": 462
+   "count": 463
   },
   {
    "tag": "herofx",
@@ -165,7 +165,7 @@
   {
    "tag": "sounds",
    "category": "sounds",
-   "count": 35
+   "count": 36
   },
   {
    "tag": "terrains",
@@ -4310,6 +4310,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-items/Keeper.Of.The.Light.BMW.zip",
    "date": 1790528261,
    "commit": "243ceefd7834ff795683f742f10796ed5115717f"
+  },
+  {
+   "category": "hero-items",
+   "name": "Keeper Of The Light Dagon.zip",
+   "asset": "Keeper.Of.The.Light.Dagon.zip",
+   "tag": "hero-items",
+   "size": 14957,
+   "sha256": "73dc8af02b96ec41a5804ba5cf65cbc1b440e53eb04155267342a189be070fe6",
+   "date": 1795692079,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-items/Keeper.Of.The.Light.Dagon.zip"
   },
   {
    "category": "hero-items",
@@ -9198,6 +9208,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-1/Huskar.Flashpoint.Proselyte.zip",
    "date": 1777911854,
    "commit": "bc714569bc4571d7ef890bc9d41da3dce16d258f"
+  },
+  {
+   "category": "heroes",
+   "name": "Huskar Red.zip",
+   "asset": "Huskar.Red.zip",
+   "tag": "heroes-2",
+   "size": 2036532,
+   "sha256": "d6d0d2af48a842b47264e6a00e4ddae1656d3c43f8fee0e2e9e17bb5356d7be7",
+   "date": 1795692079,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Huskar.Red.zip"
   },
   {
    "category": "heroes",
@@ -22462,6 +22482,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Tcoaal.Dagon.zip",
    "date": 1793139107,
    "commit": "6345d8de44dff4e7ba6bb50cf467887b7d7186eb"
+  },
+  {
+   "category": "sounds",
+   "name": "Tink Brood Kotl True Laugh.zip",
+   "asset": "Tink.Brood.Kotl.True.Laugh.zip",
+   "tag": "sounds",
+   "size": 128255,
+   "sha256": "4f5c826bdfb2f6d8b4074b510a6a6fd8782b229ecfd5b54ecf4ed2bbba17bbfe",
+   "date": 1795692079,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Tink.Brood.Kotl.True.Laugh.zip"
   },
   {
    "category": "sounds",
