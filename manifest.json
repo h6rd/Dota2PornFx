@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-26T11:21:32+00:00",
+ "generated": "2026-11-26T11:37:29+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -70,7 +70,7 @@
   {
    "tag": "heroes-2",
    "category": "heroes",
-   "count": 463
+   "count": 467
   },
   {
    "tag": "herofx",
@@ -11538,6 +11538,46 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Naga.Siren.Izayoi.Miku.zip",
    "date": 1772755574,
    "commit": "12bd65de286392a3cfd7f78cd849059d083edb53"
+  },
+  {
+   "category": "heroes",
+   "name": "Naga.Siren.All.ItemRecolored.Blue.zip",
+   "asset": "Naga.Siren.All.ItemRecolored.Blue.zip",
+   "tag": "heroes-2",
+   "size": 28701320,
+   "sha256": "44ecd1674f85068f9801343a5db1889aa41dd121a9e100be0ac540f43c786ac7",
+   "date": 1795692997,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Naga.Siren.All.ItemRecolored.Blue.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Naga.Siren.All.ItemRecolored.Pink.zip",
+   "asset": "Naga.Siren.All.ItemRecolored.Pink.zip",
+   "tag": "heroes-2",
+   "size": 29308697,
+   "sha256": "1c7769e731e2240387366451b12ed4ac7b93ab715bd4ac2214a3c0790986a85a",
+   "date": 1795692997,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Naga.Siren.All.ItemRecolored.Pink.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Naga.Siren.All.ItemRecolored.Red.zip",
+   "asset": "Naga.Siren.All.ItemRecolored.Red.zip",
+   "tag": "heroes-2",
+   "size": 28617201,
+   "sha256": "7102bdc700919b9c367339068d7f94ad9e7ab13db81ad589d65d9aed1dc14b28",
+   "date": 1795692997,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Naga.Siren.All.ItemRecolored.Red.zip"
+  },
+  {
+   "category": "heroes",
+   "name": "Naga.Siren.All.ItemRecolored.Yellow.zip",
+   "asset": "Naga.Siren.All.ItemRecolored.Yellow.zip",
+   "tag": "heroes-2",
+   "size": 28602561,
+   "sha256": "d2109ba359e20de35ba9d074314a647a80418b70dacfd67f0cb530e881854054",
+   "date": 1795692997,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Naga.Siren.All.ItemRecolored.Yellow.zip"
   },
   {
    "category": "heroes",
