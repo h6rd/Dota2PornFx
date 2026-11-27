@@ -1,6 +1,6 @@
 {
  "repo": "h6rd/Dota2PornFx",
- "generated": "2026-11-26T11:43:27+00:00",
+ "generated": "2026-11-27T23:10:23+00:00",
  "releases": [
   {
    "tag": "ancient",
@@ -50,7 +50,7 @@
   {
    "tag": "hero-icons",
    "category": "hero-icons",
-   "count": 17
+   "count": 18
   },
   {
    "tag": "hero-items",
@@ -60,7 +60,7 @@
   {
    "tag": "hero-sounds",
    "category": "hero-sounds",
-   "count": 73
+   "count": 77
   },
   {
    "tag": "heroes-1",
@@ -70,7 +70,7 @@
   {
    "tag": "heroes-2",
    "category": "heroes",
-   "count": 467
+   "count": 470
   },
   {
    "tag": "herofx",
@@ -3729,6 +3729,16 @@
    "commit": "cfcaca6f2dfcd37080abded6d0961f452ecb256f"
   },
   {
+   "category": "hero-icons",
+   "name": "Tinker True Spellstechies.zip",
+   "asset": "Tinker.True.Spellstechies.zip",
+   "tag": "hero-icons",
+   "size": 550418,
+   "sha256": "c367cb2321b1134a03b5a670b12bfa62f235f4bbcab6499b6a149dabb068fabf",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-icons/Tinker.True.Spellstechies.zip"
+  },
+  {
    "category": "hero-items",
    "name": "Alchemist Radiance Blades.zip",
    "asset": "Alchemist.Radiance.Blades.zip",
@@ -5629,6 +5639,16 @@
   },
   {
    "category": "hero-sounds",
+   "name": "Bankay Kez.zip",
+   "asset": "Bankay.Kez.zip",
+   "tag": "hero-sounds",
+   "size": 71398,
+   "sha256": "e6070c5ba6960122c5567da5823aa0559f245e1c2783654020083284a87757e3",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Bankay.Kez.zip"
+  },
+  {
+   "category": "hero-sounds",
    "name": "Bounty Hunter Taunt.zip",
    "asset": "Bounty.Hunter.Taunt.zip",
    "tag": "hero-sounds",
@@ -5659,6 +5679,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Centaur.Otday.zip",
    "date": 1789234312,
    "commit": "982a66ab46151a58a46fc7f58e10736e0c3431aa"
+  },
+  {
+   "category": "hero-sounds",
+   "name": "Chaos Knight Without Steps.zip",
+   "asset": "Chaos.Knight.Without.Steps.zip",
+   "tag": "hero-sounds",
+   "size": 21088,
+   "sha256": "e42bb6ec4a14412d738a9f2440f4548feddfc40ad8d42efce2d45cb640b946b1",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Chaos.Knight.Without.Steps.zip"
   },
   {
    "category": "hero-sounds",
@@ -6078,6 +6108,16 @@
   },
   {
    "category": "hero-sounds",
+   "name": "Shadow Fiend Ultimate 2021.zip",
+   "asset": "Shadow.Fiend.Ultimate.2021.zip",
+   "tag": "hero-sounds",
+   "size": 6758245,
+   "sha256": "7dff44714e48925dd4076426982f7a2908c8abda6fe6b5c8aae1cf8a590026c5",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Shadow.Fiend.Ultimate.2021.zip"
+  },
+  {
+   "category": "hero-sounds",
    "name": "Shadow Shaman Taunt.zip",
    "asset": "Shadow.Shaman.Taunt.zip",
    "tag": "hero-sounds",
@@ -6086,6 +6126,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Shadow.Shaman.Taunt.zip",
    "date": 1784792710,
    "commit": "f1947a618d214ee857fa6529214507b29d41becb"
+  },
+  {
+   "category": "hero-sounds",
+   "name": "Sniper Assasinate Dravaya.zip",
+   "asset": "Sniper.Assasinate.Dravaya.zip",
+   "tag": "hero-sounds",
+   "size": 162690,
+   "sha256": "ad8d051378269840b098b2f077d670e8a97b84575c9261161a9054620259657d",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/hero-sounds/Sniper.Assasinate.Dravaya.zip"
   },
   {
    "category": "hero-sounds",
@@ -9727,6 +9777,16 @@
   },
   {
    "category": "heroes",
+   "name": "Invoker Rehab.zip",
+   "asset": "Invoker.Rehab.zip",
+   "tag": "heroes-2",
+   "size": 1419513,
+   "sha256": "6e7b80b438f84f5d4d66b1a32c4eab5bda00157269bd21bf5a4fcc6ab4ec4076",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Invoker.Rehab.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Invoker True Form.zip",
    "asset": "Invoker.True.Form.zip",
    "tag": "heroes-1",
@@ -12797,6 +12857,16 @@
   },
   {
    "category": "heroes",
+   "name": "Queen Of Pain Invalid Bastard.zip",
+   "asset": "Queen.Of.Pain.Invalid.Bastard.zip",
+   "tag": "heroes-2",
+   "size": 10989259,
+   "sha256": "742a56a1a266cf86c74db3ef8c5a3eeff848e8f352e6ba377eb1cf85b6859c52",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Queen.Of.Pain.Invalid.Bastard.zip"
+  },
+  {
+   "category": "heroes",
    "name": "Queen of Pain LenS Aura.zip",
    "asset": "Queen.of.Pain.LenS.Aura.zip",
    "tag": "heroes-2",
@@ -12805,6 +12875,16 @@
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Queen.of.Pain.LenS.Aura.zip",
    "date": 1787913719,
    "commit": "ed04f5b4f4cdabc49473684d2b53bc21fad1ddad"
+  },
+  {
+   "category": "heroes",
+   "name": "Queen Of Pain Marika.zip",
+   "asset": "Queen.Of.Pain.Marika.zip",
+   "tag": "heroes-2",
+   "size": 5584870,
+   "sha256": "2eba97ff2683fa00a4ef330d6ed4600c4db6786d51eaded5c53a22cdef0ffae9",
+   "date": 1795821008,
+   "url": "https://github.com/h6rd/Dota2PornFx/releases/download/heroes-2/Queen.Of.Pain.Marika.zip"
   },
   {
    "category": "heroes",
@@ -22538,9 +22618,9 @@
    "name": "Tink Brood Kotl True Laugh.zip",
    "asset": "Tink.Brood.Kotl.True.Laugh.zip",
    "tag": "sounds",
-   "size": 128255,
-   "sha256": "4f5c826bdfb2f6d8b4074b510a6a6fd8782b229ecfd5b54ecf4ed2bbba17bbfe",
-   "date": 1795692079,
+   "size": 128280,
+   "sha256": "943c06e2218d4b7e28e59fbf8b4158ba99e8f5676249b6a22637d78b0fcb4f50",
+   "date": 1795821008,
    "url": "https://github.com/h6rd/Dota2PornFx/releases/download/sounds/Tink.Brood.Kotl.True.Laugh.zip"
   },
   {
